@@ -1,0 +1,49 @@
+# Once a day: MLB career milestones, notes for any events still missing one, tests,
+# and a weekly heartbeat commit so GitHub never pauses the scheduled jobs for inactivity.
+name: Daily chores
+
+on:
+  schedule:
+    - cron: "30 10 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: data-writer
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Detectors still pass on known games
+        run: python -m pytest -q tests
+      - name: Career milestones
+        run: python -m tracker milestones
+      - name: Fill in missing notes
+        run: python -m tracker blurbs
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Weekly heartbeat
+        if: github.event_name == 'schedule'
+        run: |
+          if [ "$(date -u +%u)" = "1" ]; then date -u +%F > data/heartbeat.txt; fi
+      - name: Commit
+        run: |
+          git config user.name "almanac-bot"
+          git config user.email "almanac-bot@users.noreply.github.com"
+          git add site/data/events.json data/state.json data/heartbeat.txt
+          if ! git diff --cached --quiet; then
+            git commit -m "data: daily $(date -u +%Y-%m-%d)"
+            git pull --rebase --autostash
+            git push
+          fi

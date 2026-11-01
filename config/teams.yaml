@@ -1,0 +1,9 @@
+# Who the dashboard is for, and which teams get the spotlight.
+# Team codes are ESPN abbreviations (MLB uses MLB's own, which match for nearly every club).
+name: Dad
+site_title: The Improbable Almanac
+teams:
+  mlb: [LAD]
+  nfl: [GB, MIN, LAR]
+  nba: [LAL, PHI]
+  cfb: [NDSU, OU]

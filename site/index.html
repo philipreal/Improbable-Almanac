@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>The Improbable Almanac</title>
+  <meta name="description" content="Rare and strange happenings in sports, caught as they happen.">
+  <meta name="theme-color" content="#f4ecdc" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#141821" media="(prefers-color-scheme: dark)">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon-180.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Almanac">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700;9..144,900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=4">
+</head>
+<body>
+  <div id="splash" class="splash" hidden>
+    <div class="splash-card" role="dialog" aria-modal="true" aria-labelledby="splash-title">
+      <div class="splash-confetti" aria-hidden="true"></div>
+      <p class="eyebrow">A birthday present</p>
+      <h1 id="splash-title">Happy Birthday, <span data-name>Dad</span>!</h1>
+      <p>This is your own almanac of the improbable. Every 15 minutes it combs through every MLB, NFL,
+        NBA and college football game for things that almost never happen: scorigamis, immaculate
+        innings, one-point safeties, quadruple-doubles and more. It keeps a special eye on your teams
+        and scouts the rest of the sports world for anything historic.</p>
+      <p class="splash-sub">The whole 2026 season is already loaded. Enjoy the oddities.</p>
+      <button class="btn-primary" id="splash-close">Open the Almanac</button>
+    </div>
+  </div>
+
+  <header class="masthead">
+    <div class="wrap masthead-inner">
+      <div class="brand">
+        <img src="icons/icon.svg" alt="" class="brand-mark" width="44" height="44">
+        <div>
+          <h1 class="site-title" data-title>The Improbable Almanac</h1>
+          <p class="tagline">Rare &amp; strange happenings in sport, compiled for <span data-name>Dad</span></p>
+        </div>
+      </div>
+      <div class="masthead-meta">
+        <span class="status" id="status" title="">Loading…</span>
+        <button class="icon-btn" id="theme-toggle" aria-label="Toggle dark mode" title="Toggle dark mode">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M12 3a9 9 0 1 0 9 9c0-.46-.04-.92-.1-1.36a5.39 5.39 0 0 1-4.4 2.26 5.4 5.4 0 0 1-3.14-9.8c-.44-.06-.9-.1-1.36-.1Z"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <section id="live" class="live wrap" hidden aria-live="polite"></section>
+
+  <main class="wrap">
+    <section class="teams" aria-labelledby="teams-h">
+      <h2 id="teams-h" class="section-h"><span data-name-possessive>Dad's</span> teams</h2>
+      <div id="teams" class="team-grid"></div>
+    </section>
+
+    <div class="layout">
+      <section class="feed-col" aria-labelledby="feed-h">
+        <div class="feed-head">
+          <h2 id="feed-h" class="section-h">The rarity feed</h2>
+          <input id="search" type="search" placeholder="Search players, teams…" aria-label="Search events">
+        </div>
+        <div class="filters" role="toolbar" aria-label="Filters">
+          <div class="chips" id="league-filter"></div>
+          <div class="chips" id="cat-filter"></div>
+          <div class="filter-row">
+            <label class="toggle"><input type="checkbox" id="mine"> <span>Only my teams</span></label>
+            <label class="select">Rarity
+              <select id="tier-filter">
+                <option value="1">All</option>
+                <option value="2" selected>Rare &amp; up</option>
+                <option value="3">Epic &amp; up</option>
+                <option value="4">Legendary only</option>
+              </select>
+            </label>
+          </div>
+        </div>
+        <p id="feed-count" class="feed-count"></p>
+        <ol id="feed" class="feed"></ol>
+        <button id="more" class="btn-ghost" hidden>Show more</button>
+      </section>
+
+      <aside class="side-col">
+        <section class="panel" aria-labelledby="season-h">
+          <h2 id="season-h" class="section-h small">Season almanac</h2>
+          <div id="season"></div>
+        </section>
+        <section class="panel" aria-labelledby="elsewhere-h">
+          <h2 id="elsewhere-h" class="section-h small">Elsewhere in sport</h2>
+          <p class="panel-note">Historic moments from other sports, picked out of the news and stat-nerd feeds.</p>
+          <ol id="elsewhere" class="elsewhere"></ol>
+        </section>
+      </aside>
+    </div>
+
+    <section class="scorigami" id="scorigami" aria-labelledby="sg-h">
+      <div class="sg-head">
+        <div>
+          <h2 id="sg-h" class="section-h">Scorigami boards</h2>
+          <p class="panel-note">Every final score in league history. Darker squares have happened more often;
+            <span class="swatch new"></span> gold squares were brand new this season;
+            empty squares have never happened.</p>
+        </div>
+        <div class="chips" id="sg-tabs" role="tablist"></div>
+      </div>
+      <div class="sg-body">
+        <div class="sg-canvas-wrap">
+          <canvas id="sg-canvas" aria-label="Scorigami grid" role="img"></canvas>
+          <div id="sg-tip" class="sg-tip" hidden></div>
+        </div>
+        <div class="sg-side" id="sg-side"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer wrap">
+    <p>Made with love for <span data-name>Dad</span>. Data: ESPN, MLB StatsAPI, nflverse, FiveThirtyEight,
+      plus news feeds. Notes are written by Claude from verified facts. <a href="#" id="replay-splash">Replay the birthday card</a></p>
+  </footer>
+
+  <script type="module" src="js/app.js?v=4"></script>
+</body>
+</html>

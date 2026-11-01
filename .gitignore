@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.cache/
+.pytest_cache/
+.env
+# Regenerated on every poll and deployed straight to Pages, never committed:
+site/data/live.json
+site/data/status.json
+site/data/teams.json
+.claude/

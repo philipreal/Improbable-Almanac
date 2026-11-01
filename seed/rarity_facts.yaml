@@ -1,0 +1,58 @@
+# Curated "how rare is this?" facts, attached to events by id.
+# Claude may only use these (plus the detector's own numbers) when writing notes, so keep them
+# accurate. Counts are phrased "entering 2026" because they were checked in October 2026 against
+# MLB.com, Wikipedia and team sites; update them when the next season starts.
+
+# ---- MLB ----
+mlb-perfect-game:
+  text: "Entering 2026 there had been just 24 official perfect games in MLB history; the most recent was Domingo Germán's in 2023."
+mlb-no-hitter-loss:
+  text: "Ken Johnson (1964) is the only pitcher ever to lose a complete nine-inning no-hitter by himself."
+mlb-immaculate-inning:
+  text: "MLB counted 122 immaculate innings in its entire history entering the 2026 season."
+mlb-four-k-inning:
+  text: "Four-strikeout innings need a dropped third strike; MLB had seen only about 100 of them in its history."
+mlb-natural-cycle:
+  text: "Only about 14 natural cycles (single, double, triple, homer in order) have ever been recorded in MLB."
+mlb-reverse-cycle:
+  text: "The reverse natural cycle (homer, triple, double, single in order) is rarer still: only a handful have ever been recorded in MLB history."
+mlb-four-hr-game:
+  text: "Only 21 players had ever hit four home runs in one MLB game through 2025."
+mlb-unassisted-tp:
+  text: "Only 15 unassisted triple plays had been turned in MLB history entering 2026; the previous one was Eric Bruntlett's in 2009."
+mlb-long-game:
+  text: "The longest game in MLB history went 26 innings (Brooklyn vs. Boston Braves, 1920)."
+mlb-comeback:
+  text: "The biggest comeback in MLB history is 12 runs, done only three times."
+mlb-ultimate-grand-slam:
+  text: "The 'ultimate grand slam' is the only single swing that can turn a three-run deficit into a walk-off win."
+
+# ---- NFL / college ----
+nfl-one-point-safety:
+  text: "No NFL team is known to have scored a one-point safety since at least 1940."
+cfb-one-point-safety:
+  text: "Only a handful of one-point safeties have ever happened in major college football; one came in the 2013 Fiesta Bowl."
+nfl-fair-catch-kick:
+  text: "Cameron Dicker's 57-yarder in December 2024 was just the seventh successful fair-catch kick in NFL history."
+nfl-comeback:
+  text: "The biggest comeback in NFL history is 33 points (Vikings over the Colts, December 2022)."
+cfb-comeback:
+  text: "The biggest comeback in FBS history is 35 points (Michigan State over Northwestern, 2006)."
+cfb-long-game:
+  text: "The FBS record is nine overtimes (Illinois 20, Penn State 18 in 2021)."
+nfl-tie:
+  text: "Since overtime arrived in 1974, NFL ties usually happen zero to two times per season."
+
+# ---- NBA ----
+nba-quadruple-double:
+  text: "There had been only four official quadruple-doubles in NBA history; the last was David Robinson's in 1994."
+nba-quintuple-double:
+  text: "No NBA player had ever recorded an official quintuple-double."
+nba-20-20-20:
+  text: "Only Wilt Chamberlain (1968) and Russell Westbrook (2019) had ever gone 20-20-20 in an NBA game."
+nba-5x5:
+  text: "Only a couple dozen 5x5 games had been recorded since steals and blocks became official stats in 1973-74."
+nba-comeback:
+  text: "The biggest comeback in NBA history is 36 points (Jazz over the Nuggets, 1996)."
+nba-long-game:
+  text: "The NBA record is six overtimes, set in 1951."

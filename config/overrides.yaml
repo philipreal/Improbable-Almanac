@@ -1,0 +1,5 @@
+# Hide any event that turns out to be a false alarm. Copy its key from site/data/events.json.
+# Example:
+#   hide:
+#     - "nfl:401872996:long-play:40187299640"
+hide: []

@@ -1,0 +1,5556 @@
+{
+ "updated": "2026-11-01T22:19:51+00:00",
+ "events": [
+  {
+   "key": "nfl:401873031:scorigami",
+   "league": "nfl",
+   "category": "never-before",
+   "tier": "legendary",
+   "title": "Scorigami! 43–36 has never happened before",
+   "detail": "TEN 36, CIN 43 is a final score that had never occurred in NFL history.",
+   "date": "2026-11-01T18:00Z",
+   "game_id": "401873031",
+   "matchup": "TEN 36, CIN 43",
+   "link": "https://www.espn.com/nfl/game/_/gameId/401873031",
+   "teams": [
+    "TEN",
+    "CIN"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png",
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png"
+   ],
+   "players": [],
+   "facts": [
+    "No NFL game had ever ended 43–36 in 18,343 games since 1920.",
+    "This is the 1098th unique final score in NFL history."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 5.0,
+   "found": "2026-11-01T22:19:03+00:00"
+  },
+  {
+   "key": "nfl:401873031:ints:4036134",
+   "league": "nfl",
+   "category": "milestone",
+   "tier": "rare",
+   "title": "Amani Hooker: 3 interceptions",
+   "detail": "Amani Hooker (Tennessee Titans) put up 3 interceptions in TEN 36, CIN 43.",
+   "date": "2026-11-01T18:00Z",
+   "game_id": "401873031",
+   "matchup": "TEN 36, CIN 43",
+   "link": "https://www.espn.com/nfl/game/_/gameId/401873031",
+   "teams": [
+    "TEN",
+    "CIN"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png",
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png"
+   ],
+   "players": [
+    "Amani Hooker"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-01T22:19:03+00:00"
+  },
+  {
+   "key": "cfb:401858509:unranked-over-top5",
+   "league": "cfb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Unranked USC stun No. 2 Ohio State",
+   "detail": "USC Trojans were unranked and beat No. 2 Ohio State Buckeyes: OSU 18, USC 30.",
+   "date": "2026-10-31T23:30Z",
+   "game_id": "401858509",
+   "matchup": "OSU 18, USC 30",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401858509",
+   "teams": [
+    "USC",
+    "OSU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-01T22:19:49+00:00"
+  },
+  {
+   "key": "cfb:401858501:long-fg:401858501732",
+   "league": "cfb",
+   "category": "milestone",
+   "tier": "rare",
+   "title": "60-yard field goal",
+   "detail": "Luke Drzewiecki drilled a 60-yarder for Minnesota Golden Gophers.",
+   "date": "2026-10-31T19:30Z",
+   "game_id": "401858501",
+   "matchup": "MINN 16, IU 23",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401858501",
+   "teams": [
+    "MINN",
+    "IU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png"
+   ],
+   "players": [
+    "Luke Drzewiecki"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-01T22:19:46+00:00"
+  },
+  {
+   "key": "cfb:401858501:long-fg:401858501747",
+   "league": "cfb",
+   "category": "milestone",
+   "tier": "rare",
+   "title": "60-yard field goal",
+   "detail": "Paddy McAteer drilled a 60-yarder for Indiana Hoosiers.",
+   "date": "2026-10-31T19:30Z",
+   "game_id": "401858501",
+   "matchup": "MINN 16, IU 23",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401858501",
+   "teams": [
+    "IU",
+    "MINN"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png"
+   ],
+   "players": [
+    "Paddy McAteer"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-01T22:19:46+00:00"
+  },
+  {
+   "key": "cfb:401871096:kick-six:401871096479",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Kick-six: field goal returned for a touchdown",
+   "detail": "Marshall Thundering Herd took a field-goal try back for six. Xayvion Turner-Bradshaw 100 Yd Return of Blocked Field Goal (Jorge Diaz Nicolas Kick)",
+   "date": "2026-10-31T17:00Z",
+   "game_id": "401871096",
+   "matchup": "MRSH 36, ODU 23",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401871096",
+   "teams": [
+    "MRSH",
+    "ODU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/295.png"
+   ],
+   "players": [
+    "Xayvion Turner-Bradshaw"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-11-01T22:19:44+00:00"
+  },
+  {
+   "key": "cfb:401871096:long-play:401871096479",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "100-yard return touchdown",
+   "detail": "Xayvion Turner-Bradshaw went the distance: Xayvion Turner-Bradshaw 100 Yd Return of Blocked Field Goal (Jorge Diaz Nicolas Kick)",
+   "date": "2026-10-31T17:00Z",
+   "game_id": "401871096",
+   "matchup": "MRSH 36, ODU 23",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401871096",
+   "teams": [
+    "MRSH",
+    "ODU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/295.png"
+   ],
+   "players": [
+    "Xayvion Turner-Bradshaw"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-11-01T22:19:44+00:00"
+  },
+  {
+   "key": "nba:401909285:comeback",
+   "league": "nba",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Warriors storm back from 25 points down",
+   "detail": "Golden State Warriors trailed by 25 and won LAL 95, GS 112.",
+   "date": "2026-10-31T02:00Z",
+   "game_id": "401909285",
+   "matchup": "LAL 95, GS 112",
+   "link": "https://www.espn.com/nba/game/_/gameId/401909285",
+   "teams": [
+    "GS",
+    "LAL"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in NBA history is 36 points (Jazz over the Nuggets, 1996)."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-01T22:19:19+00:00"
+  },
+  {
+   "key": "nba:401909886:heave:401909886419",
+   "league": "nba",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Tre Jones: 42-foot buzzer-beater",
+   "detail": "Tre Jones (Chicago Bulls) — Tre Jones makes 42-foot three point jumper (Josh Giddey assists) (end of 2Q).",
+   "date": "2026-10-29T00:00Z",
+   "game_id": "401909886",
+   "matchup": "NY 133, CHI 127",
+   "link": "https://www.espn.com/nba/game/_/gameId/401909886",
+   "teams": [
+    "CHI",
+    "NY"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
+   ],
+   "players": [
+    "Tre Jones"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-11-01T22:19:16+00:00"
+  },
+  {
+   "key": "nba:401909881:heave:401909881340",
+   "league": "nba",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Nikola Jovic: 40-foot buzzer-beater",
+   "detail": "Nikola Jovic (Miami Heat) — Nikola Jovic makes 40-foot three pointer (end of 2Q).",
+   "date": "2026-10-28T23:00Z",
+   "game_id": "401909881",
+   "matchup": "MIA 129, ATL 117",
+   "link": "https://www.espn.com/nba/game/_/gameId/401909881",
+   "teams": [
+    "MIA",
+    "ATL"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png"
+   ],
+   "players": [
+    "Nikola Jovic"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-11-01T22:19:15+00:00"
+  },
+  {
+   "key": "nba:401909884:heave:401909884407",
+   "league": "nba",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "VJ Edgecombe: 50-foot buzzer-beater",
+   "detail": "VJ Edgecombe (Philadelphia 76ers) — VJ Edgecombe makes 50-foot three point jumper (end of 2Q).",
+   "date": "2026-10-28T23:00Z",
+   "game_id": "401909884",
+   "matchup": "PHI 114, IND 109",
+   "link": "https://www.espn.com/nba/game/_/gameId/401909884",
+   "teams": [
+    "PHI",
+    "IND"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png"
+   ],
+   "players": [
+    "VJ Edgecombe"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-11-01T22:19:15+00:00"
+  },
+  {
+   "key": "cfb:401871058:long-play:401871058821",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "100-yard kickoff return touchdown",
+   "detail": "Santana Fleming went the distance: Santana Fleming 100 Yd Kickoff Return (Roman Gagliano Run for Two-Point Conversion)",
+   "date": "2026-10-28T23:00Z",
+   "game_id": "401871058",
+   "matchup": "KENN 44, MTSU 28",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401871058",
+   "teams": [
+    "MTSU",
+    "KENN"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2393.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/338.png"
+   ],
+   "players": [
+    "Santana Fleming"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-11-01T22:19:37+00:00"
+  },
+  {
+   "key": "cfb:401860906:long-play:40186090644",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "100-yard kickoff return touchdown",
+   "detail": "Jaylen Jenkins went the distance: Jaylen Jenkins 100 Yd Kickoff Return (Jacob Bonilla Kick)",
+   "date": "2026-10-24T23:30Z",
+   "game_id": "401860906",
+   "matchup": "USU 17, TXST 20",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401860906",
+   "teams": [
+    "TXST",
+    "USU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/326.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png"
+   ],
+   "players": [
+    "Jaylen Jenkins"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-11-01T22:19:34+00:00"
+  },
+  {
+   "key": "cfb:401856836:scorigami",
+   "league": "cfb",
+   "category": "never-before",
+   "tier": "legendary",
+   "title": "Scorigami! 57–24 has never happened before",
+   "detail": "COLO 24, OKST 57 is a final score that had never occurred in College Football history.",
+   "date": "2026-10-24T23:00Z",
+   "game_id": "401856836",
+   "matchup": "COLO 24, OKST 57",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856836",
+   "teams": [
+    "COLO",
+    "OKST"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png"
+   ],
+   "players": [],
+   "facts": [
+    "No College Football game had ever ended 57–24 in 76,524 games since 1873.",
+    "This is the 2204th unique final score in College Football history."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 5.0,
+   "found": "2026-11-01T22:19:31+00:00"
+  },
+  {
+   "key": "cfb:401864528:throw-and-catch-td:5103836",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Marshaun Brown threw a TD and caught one",
+   "detail": "Marshaun Brown (Nevada Wolf Pack) both threw and caught a touchdown pass.",
+   "date": "2026-10-24T21:00Z",
+   "game_id": "401864528",
+   "matchup": "SJSU 13, NEV 28",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401864528",
+   "teams": [
+    "NEV",
+    "SJSU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png"
+   ],
+   "players": [
+    "Marshaun Brown"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-11-01T22:19:30+00:00"
+  },
+  {
+   "key": "cfb:401866449:long-play:401866449719",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "100-yard kickoff return touchdown",
+   "detail": "Darren James-Hamilton went the distance: Darren James-Hamilton 100 Yd Kickoff Return (Will Hryszko Kick)",
+   "date": "2026-10-24T20:00Z",
+   "game_id": "401866449",
+   "matchup": "EMU 20, OHIO 24",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401866449",
+   "teams": [
+    "OHIO",
+    "EMU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/195.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png"
+   ],
+   "players": [
+    "Darren James-Hamilton"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-25T00:08:01+00:00"
+  },
+  {
+   "key": "cfb:401856835:unranked-over-top5",
+   "league": "cfb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Unranked UCF stun No. 2 BYU",
+   "detail": "UCF Knights were unranked and beat No. 2 BYU Cougars: BYU 31, UCF 39.",
+   "date": "2026-10-24T19:30Z",
+   "game_id": "401856835",
+   "matchup": "BYU 31, UCF 39",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856835",
+   "teams": [
+    "UCF",
+    "BYU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-25T00:07:58+00:00"
+  },
+  {
+   "key": "nba:401909093:comeback",
+   "league": "nba",
+   "category": "wild",
+   "tier": "epic",
+   "title": "76ers storm back from 29 points down",
+   "detail": "Philadelphia 76ers trailed by 29 and won CLE 106, PHI 114.",
+   "date": "2026-10-22T23:00Z",
+   "game_id": "401909093",
+   "matchup": "CLE 106, PHI 114",
+   "link": "https://www.espn.com/nba/game/_/gameId/401909093",
+   "teams": [
+    "PHI",
+    "CLE"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in NBA history is 36 points (Jazz over the Nuggets, 1996)."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:36:15+00:00"
+  },
+  {
+   "key": "nba:401909092:perfect-shooting:4433136",
+   "league": "nba",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Walker Kessler goes 12-for-12 from the field",
+   "detail": "Walker Kessler didn't miss a shot: 12-for-12.",
+   "date": "2026-10-22T02:00Z",
+   "game_id": "401909092",
+   "matchup": "GS 105, LAL 127",
+   "link": "https://www.espn.com/nba/game/_/gameId/401909092",
+   "teams": [
+    "LAL",
+    "GS"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png"
+   ],
+   "players": [
+    "Walker Kessler"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:15+00:00"
+  },
+  {
+   "key": "cfb:401871069:scorigami",
+   "league": "cfb",
+   "category": "never-before",
+   "tier": "legendary",
+   "title": "Scorigami! 61–38 has never happened before",
+   "detail": "MOST 38, DEL 61 is a final score that had never occurred in College Football history.",
+   "date": "2026-10-20T23:00Z",
+   "game_id": "401871069",
+   "matchup": "MOST 38, DEL 61",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401871069",
+   "teams": [
+    "MOST",
+    "DEL"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/48.png"
+   ],
+   "players": [],
+   "facts": [
+    "No College Football game had ever ended 61–38 in 76,481 games since 1873.",
+    "This is the 2203rd unique final score in College Football history."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 5.0,
+   "found": "2026-10-24T22:27:01+00:00"
+  },
+  {
+   "key": "nfl:401873004:upset",
+   "league": "nfl",
+   "category": "wild",
+   "tier": "epic",
+   "title": "13.5-point underdog Cardinals win outright",
+   "detail": "Arizona Cardinals were 13.5-point underdogs and won ARI 18, LAR 16.",
+   "date": "2026-10-18T20:05Z",
+   "game_id": "401873004",
+   "matchup": "ARI 18, LAR 16",
+   "link": "https://www.espn.com/nfl/game/_/gameId/401873004",
+   "teams": [
+    "ARI",
+    "LAR"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png",
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:35:34+00:00"
+  },
+  {
+   "key": "cfb:401856809:td-triple-threat:5141367",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "legendary",
+   "title": "Bear Bachmeier threw, ran AND caught a touchdown",
+   "detail": "The touchdown triple crown: Bear Bachmeier (BYU Cougars) scored every way an offense can.",
+   "date": "2026-10-17T23:30Z",
+   "game_id": "401856809",
+   "matchup": "ND 24, BYU 28",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856809",
+   "teams": [
+    "BYU",
+    "ND"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png"
+   ],
+   "players": [
+    "Bear Bachmeier"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 4.6,
+   "found": "2026-10-24T22:36:26+00:00"
+  },
+  {
+   "key": "cfb:401856828:scorigami-second",
+   "league": "cfb",
+   "category": "never-before",
+   "tier": "rare",
+   "title": "Only the second 53–25 final ever",
+   "detail": "ASU 25, TTU 53 matches a final score that had happened just once before.",
+   "date": "2026-10-17T19:30Z",
+   "game_id": "401856828",
+   "matchup": "ASU 25, TTU 53",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856828",
+   "teams": [
+    "ASU",
+    "TTU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png"
+   ],
+   "players": [],
+   "facts": [
+    "The only other 53–25 game in College Football history: WASH 25, CAL 53 on 1953-11-07."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:26:56+00:00"
+  },
+  {
+   "key": "cfb:401856719:unranked-over-top5",
+   "league": "cfb",
+   "category": "wild",
+   "tier": "epic",
+   "title": "Unranked Auburn stun No. 1 Georgia",
+   "detail": "Auburn Tigers were unranked and beat No. 1 Georgia Bulldogs: AUB 27, UGA 24.",
+   "date": "2026-10-17T19:30Z",
+   "game_id": "401856719",
+   "matchup": "AUB 27, UGA 24",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856719",
+   "teams": [
+    "AUB",
+    "UGA"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:36:26+00:00"
+  },
+  {
+   "key": "cfb:401864524:long-fg:401864524344",
+   "league": "cfb",
+   "category": "milestone",
+   "tier": "rare",
+   "title": "60-yard field goal",
+   "detail": "Ethan Schwartz drilled a 60-yarder for UNLV Rebels.",
+   "date": "2026-10-17T19:30Z",
+   "game_id": "401864524",
+   "matchup": "UNLV 31, AFA 41",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401864524",
+   "teams": [
+    "UNLV",
+    "AFA"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png"
+   ],
+   "players": [
+    "Ethan Schwartz"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:36:26+00:00"
+  },
+  {
+   "key": "cfb:401858261:long-fg:401858261413",
+   "league": "cfb",
+   "category": "milestone",
+   "tier": "rare",
+   "title": "59-yard field goal",
+   "detail": "Nolan Hauser drilled a 59-yarder for Clemson Tigers.",
+   "date": "2026-10-17T16:00Z",
+   "game_id": "401858261",
+   "matchup": "CHSO 0, CLEM 37",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401858261",
+   "teams": [
+    "CLEM",
+    "CHSO"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2127.png"
+   ],
+   "players": [
+    "Nolan Hauser"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:36:26+00:00"
+  },
+  {
+   "key": "cfb:401871067:throw-and-catch-td:5289314",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Tyler Bell threw a TD and caught one",
+   "detail": "Tyler Bell (Delaware Blue Hens) both threw and caught a touchdown pass.",
+   "date": "2026-10-13T23:00Z",
+   "game_id": "401871067",
+   "matchup": "DEL 30, MTSU 33",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401871067",
+   "teams": [
+    "DEL",
+    "MTSU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/48.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2393.png"
+   ],
+   "players": [
+    "Tyler Bell"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:26+00:00"
+  },
+  {
+   "key": "nfl:401872988:tie",
+   "league": "nfl",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "A tie! 27–27",
+   "detail": "NYG 27, WSH 27 ended in a tie after overtime.",
+   "date": "2026-10-11T17:00Z",
+   "game_id": "401872988",
+   "matchup": "NYG 27, WSH 27",
+   "link": "https://www.espn.com/nfl/game/_/gameId/401872988",
+   "teams": [
+    "NYG",
+    "WSH"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png"
+   ],
+   "players": [],
+   "facts": [
+    "Since overtime arrived in 1974, NFL ties usually happen zero to two times per season."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:35:34+00:00"
+  },
+  {
+   "key": "cfb:401856715:throw-and-catch-td:5114311",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Jackson Harris threw a TD and caught one",
+   "detail": "Jackson Harris (LSU Tigers) both threw and caught a touchdown pass.",
+   "date": "2026-10-10T23:00Z",
+   "game_id": "401856715",
+   "matchup": "LSU 34, UK 35",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856715",
+   "teams": [
+    "LSU",
+    "UK"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+   ],
+   "players": [
+    "Jackson Harris"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:25+00:00"
+  },
+  {
+   "key": "cfb:401860902:throw-and-catch-td:4685497",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Maalik Murphy threw a TD and caught one",
+   "detail": "Maalik Murphy (Oregon State Beavers) both threw and caught a touchdown pass.",
+   "date": "2026-10-10T22:00Z",
+   "game_id": "401860902",
+   "matchup": "SDSU 14, ORST 66",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401860902",
+   "teams": [
+    "ORST",
+    "SDSU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png"
+   ],
+   "players": [
+    "Maalik Murphy"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:25+00:00"
+  },
+  {
+   "key": "cfb:401856717:unranked-over-top5",
+   "league": "cfb",
+   "category": "wild",
+   "tier": "epic",
+   "title": "Unranked Oklahoma stun No. 1 Texas",
+   "detail": "Oklahoma Sooners were unranked and beat No. 1 Texas Longhorns: TEX 24, OU 27.",
+   "date": "2026-10-10T19:30Z",
+   "game_id": "401856717",
+   "matchup": "TEX 24, OU 27",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856717",
+   "teams": [
+    "OU",
+    "TEX"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:36:25+00:00"
+  },
+  {
+   "key": "cfb:401858259:comeback",
+   "league": "cfb",
+   "category": "wild",
+   "tier": "epic",
+   "title": "California storm back from 25 points down",
+   "detail": "California Golden Bears trailed by 25 and won VT 20, CAL 25.",
+   "date": "2026-10-10T19:30Z",
+   "game_id": "401858259",
+   "matchup": "VT 20, CAL 25",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401858259",
+   "teams": [
+    "CAL",
+    "VT"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/259.png"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in FBS history is 35 points (Michigan State over Northwestern, 2006)."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:36:25+00:00"
+  },
+  {
+   "key": "cfb:401862799:throw-and-catch-td:4710860",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Oran Singleton Jr. threw a TD and caught one",
+   "detail": "Oran Singleton Jr. (Tulsa Golden Hurricane) both threw and caught a touchdown pass.",
+   "date": "2026-10-10T19:30Z",
+   "game_id": "401862799",
+   "matchup": "TLSA 26, NAVY 34",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401862799",
+   "teams": [
+    "TLSA",
+    "NAVY"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/202.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2426.png"
+   ],
+   "players": [
+    "Oran Singleton Jr."
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:25+00:00"
+  },
+  {
+   "key": "cfb:401869933:long-play:401869933154",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "100-yard kickoff return touchdown",
+   "detail": "Keenan Phillips went the distance: Keenan Phillips 100 Yd Kickoff Return (Davis Little Kick)",
+   "date": "2026-10-08T23:30Z",
+   "game_id": "401869933",
+   "matchup": "USA 56, ARST 49",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401869933",
+   "teams": [
+    "USA",
+    "ARST"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/6.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2032.png"
+   ],
+   "players": [
+    "Keenan Phillips"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:25+00:00"
+  },
+  {
+   "key": "cfb:401871090:throw-and-catch-td:5218891",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Mario Sanders threw a TD and caught one",
+   "detail": "Mario Sanders (Southern Miss Golden Eagles) both threw and caught a touchdown pass.",
+   "date": "2026-10-07T00:00Z",
+   "game_id": "401871090",
+   "matchup": "USM 34, TROY 55",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401871090",
+   "teams": [
+    "USM",
+    "TROY"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2572.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2653.png"
+   ],
+   "players": [
+    "Mario Sanders"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:25+00:00"
+  },
+  {
+   "key": "nfl:401872978:scorigami-second",
+   "league": "nfl",
+   "category": "never-before",
+   "tier": "rare",
+   "title": "Only the second 32–26 final ever",
+   "detail": "DET 26, CAR 32 matches a final score that had happened just once before.",
+   "date": "2026-10-05T00:20Z",
+   "game_id": "401872978",
+   "matchup": "DET 26, CAR 32",
+   "link": "https://www.espn.com/nfl/game/_/gameId/401872978",
+   "teams": [
+    "DET",
+    "CAR"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png",
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png"
+   ],
+   "players": [],
+   "facts": [
+    "The only other 32–26 game in NFL history: NYJ 26, MIA 32 on 2024-12-08."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:15:23+00:00"
+  },
+  {
+   "key": "nfl:401872973:long-fg:4018729732250",
+   "league": "nfl",
+   "category": "milestone",
+   "tier": "epic",
+   "title": "64-yard field goal",
+   "detail": "Tyler Loop drilled a 64-yarder for Baltimore Ravens.",
+   "date": "2026-10-04T17:00Z",
+   "game_id": "401872973",
+   "matchup": "TEN 18, BAL 24",
+   "link": "https://www.espn.com/nfl/game/_/gameId/401872973",
+   "teams": [
+    "BAL",
+    "TEN"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png"
+   ],
+   "players": [
+    "Tyler Loop"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:35:34+00:00"
+  },
+  {
+   "key": "cfb:401862787:scorigami-second",
+   "league": "cfb",
+   "category": "never-before",
+   "tier": "rare",
+   "title": "Only the second 59–8 final ever",
+   "detail": "MEM 59, CLT 8 matches a final score that had happened just once before.",
+   "date": "2026-10-03T15:00Z",
+   "game_id": "401862787",
+   "matchup": "MEM 59, CLT 8",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401862787",
+   "teams": [
+    "MEM",
+    "CLT"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2429.png"
+   ],
+   "players": [],
+   "facts": [
+    "The only other 59–8 game in College Football history: SIU 8, FSU 59 on 1982-10-09."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:26:38+00:00"
+  },
+  {
+   "key": "cfb:401864511:long-play:401864511239",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "100-yard kickoff return touchdown",
+   "detail": "Isaiah Stone went the distance: Isaiah Stone 100 Yd Kickoff Return (Samer Layous Kick)",
+   "date": "2026-09-26T18:00Z",
+   "game_id": "401864511",
+   "matchup": "NIU 14, GAST 35",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401864511",
+   "teams": [
+    "GAST",
+    "NIU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2247.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png"
+   ],
+   "players": [
+    "Isaiah Stone"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:23+00:00"
+  },
+  {
+   "key": "cfb:401856704:sacks:5079689",
+   "league": "cfb",
+   "category": "milestone",
+   "tier": "epic",
+   "title": "Colin Simmons: 5.5 sacks",
+   "detail": "Colin Simmons (Texas Longhorns) put up 5.5 sacks in TEX 20, TENN 17.",
+   "date": "2026-09-26T16:00Z",
+   "game_id": "401856704",
+   "matchup": "TEX 20, TENN 17",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856704",
+   "teams": [
+    "TEX",
+    "TENN"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png"
+   ],
+   "players": [
+    "Colin Simmons"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:36:23+00:00"
+  },
+  {
+   "key": "cfb:401860896:long-play:401860896548",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "100-yard kickoff return touchdown",
+   "detail": "Mekhi Anderson went the distance: Mekhi Anderson 100 Yd Kickoff Return (Michael Petro Kick)",
+   "date": "2026-09-26T16:00Z",
+   "game_id": "401860896",
+   "matchup": "CSU 45, UTSA 59",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401860896",
+   "teams": [
+    "UTSA",
+    "CSU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2636.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png"
+   ],
+   "players": [
+    "Mekhi Anderson"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:23+00:00"
+  },
+  {
+   "key": "mlb:823491:inside-the-park:44",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Inside-the-park home run: Jeremiah Jackson",
+   "detail": "Jeremiah Jackson hits an inside-the-park home run (10) on a sharp fly ball to right-center field.",
+   "date": "2026-09-25T20:05:00Z",
+   "game_id": "823491",
+   "matchup": "BAL 10, NYY 2",
+   "link": "https://www.mlb.com/gameday/823491",
+   "teams": [
+    "BAL",
+    "NYY"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/110.svg",
+    "https://www.mlbstatic.com/team-logos/147.svg"
+   ],
+   "players": [
+    "Jeremiah Jackson"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:35:17+00:00"
+  },
+  {
+   "key": "mlb:824953:comeback",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Athletics storm back from 6 runs down",
+   "detail": "Athletics trailed by 6 and won LAA 7, ATH 9.",
+   "date": "2026-09-23T01:40:00Z",
+   "game_id": "824953",
+   "matchup": "LAA 7, ATH 9",
+   "link": "https://www.mlb.com/gameday/824953",
+   "teams": [
+    "ATH",
+    "LAA"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/133.svg",
+    "https://www.mlbstatic.com/team-logos/108.svg"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in MLB history is 12 runs, done only three times."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:35:16+00:00"
+  },
+  {
+   "key": "cfb:401856797:comeback",
+   "league": "cfb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Cincinnati storm back from 21 points down",
+   "detail": "Cincinnati Bearcats trailed by 21 and won M-OH 31, CIN 35.",
+   "date": "2026-09-19T19:30Z",
+   "game_id": "401856797",
+   "matchup": "M-OH 31, CIN 35",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856797",
+   "teams": [
+    "CIN",
+    "M-OH"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2132.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in FBS history is 35 points (Michigan State over Northwestern, 2006)."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:36:22+00:00"
+  },
+  {
+   "key": "cfb:401858460:kick-six:401858460770",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "legendary",
+   "title": "Walk-off kick-six!",
+   "detail": "Wisconsin Badgers took a field-goal try back for six. Donovan Dunmore 55 Yd Return of Blocked Field Goal",
+   "date": "2026-09-19T16:30Z",
+   "game_id": "401858460",
+   "matchup": "EMU 10, WIS 54",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401858460",
+   "teams": [
+    "WIS",
+    "EMU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png"
+   ],
+   "players": [
+    "Donovan Dunmore"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 4.6,
+   "found": "2026-10-24T22:36:22+00:00"
+  },
+  {
+   "key": "cfb:401856798:long-play:401856798161",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "100-yard kickoff return touchdown",
+   "detail": "Cameron Pettaway went the distance: Cameron Pettaway 100 Yd Kickoff Return (Kyle Konrardy Kick)",
+   "date": "2026-09-19T16:00Z",
+   "game_id": "401856798",
+   "matchup": "BGSU 7, ISU 55",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856798",
+   "teams": [
+    "ISU",
+    "BGSU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/189.png"
+   ],
+   "players": [
+    "Cameron Pettaway"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:22+00:00"
+  },
+  {
+   "key": "cfb:401856812:long-play:401856812400",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "100-yard kickoff return touchdown",
+   "detail": "Jaren Hamilton went the distance: Jaren Hamilton 100 Yd Kickoff Return (Carson Smith Kick)",
+   "date": "2026-09-19T16:00Z",
+   "game_id": "401856812",
+   "matchup": "ASU 24, KU 17",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856812",
+   "teams": [
+    "ASU",
+    "KU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png"
+   ],
+   "players": [
+    "Jaren Hamilton"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:22+00:00"
+  },
+  {
+   "key": "cfb:401858455:lopsided-margin",
+   "league": "cfb",
+   "category": "wild",
+   "tier": "epic",
+   "title": "84-point rout",
+   "detail": "Oregon Ducks won by 84: PRST 0, ORE 84.",
+   "date": "2026-09-19T02:30Z",
+   "game_id": "401858455",
+   "matchup": "PRST 0, ORE 84",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401858455",
+   "teams": [
+    "PRST",
+    "ORE"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:36:22+00:00"
+  },
+  {
+   "key": "mlb:824547:comeback",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Tigers storm back from 6 runs down",
+   "detail": "Detroit Tigers trailed by 6 and won DET 11, CWS 8.",
+   "date": "2026-09-18T23:40:00Z",
+   "game_id": "824547",
+   "matchup": "DET 11, CWS 8",
+   "link": "https://www.mlb.com/gameday/824547",
+   "teams": [
+    "DET",
+    "CWS"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/116.svg",
+    "https://www.mlbstatic.com/team-logos/145.svg"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in MLB history is 12 runs, done only three times."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:35:14+00:00"
+  },
+  {
+   "key": "mlb:823574:inside-the-park:83",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Inside-the-park home run: Coby Mayo",
+   "detail": "Coby Mayo hits an inside-the-park home run (24) on a fly ball to center field. Leody Taveras scores. Dylan Beavers scores.",
+   "date": "2026-09-15T23:10:00Z",
+   "game_id": "823574",
+   "matchup": "BAL 7, NYM 5",
+   "link": "https://www.mlb.com/gameday/823574",
+   "teams": [
+    "BAL",
+    "NYM"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/110.svg",
+    "https://www.mlbstatic.com/team-logos/121.svg"
+   ],
+   "players": [
+    "Coby Mayo"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:35:13+00:00"
+  },
+  {
+   "key": "nfl:401872927:scorigami",
+   "league": "nfl",
+   "category": "never-before",
+   "tier": "legendary",
+   "title": "Scorigami! 39–22 has never happened before",
+   "detail": "GB 22, MIN 39 is a final score that had never occurred in NFL history.",
+   "date": "2026-09-13T20:25Z",
+   "game_id": "401872927",
+   "matchup": "GB 22, MIN 39",
+   "link": "https://www.espn.com/nfl/game/_/gameId/401872927",
+   "teams": [
+    "GB",
+    "MIN"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png"
+   ],
+   "players": [],
+   "facts": [
+    "No NFL game had ever ended 39–22 in 18,245 games since 1920.",
+    "This is the 1097th unique final score in NFL history."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 5.0,
+   "found": "2026-10-24T22:15:12+00:00"
+  },
+  {
+   "key": "mlb:824708:immaculate-inning:1top",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Immaculate inning: Payton Tolle",
+   "detail": "Payton Tolle (Boston Red Sox) struck out the side on 9 pitches in the top of inning 1.",
+   "date": "2026-09-13T19:05:00Z",
+   "game_id": "824708",
+   "matchup": "KC 1, BOS 4",
+   "link": "https://www.mlb.com/gameday/824708",
+   "teams": [
+    "BOS",
+    "KC"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/111.svg",
+    "https://www.mlbstatic.com/team-logos/118.svg"
+   ],
+   "players": [
+    "Payton Tolle"
+   ],
+   "facts": [
+    "MLB counted 122 immaculate innings in its entire history entering the 2026 season."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:35:12+00:00"
+  },
+  {
+   "key": "mlb:822764:consecutive-hr:5bottom",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Back-to-back-to-back home runs",
+   "detail": "Toronto Blue Jays hit 3 consecutive homers in inning 5.",
+   "date": "2026-09-13T17:37:00Z",
+   "game_id": "822764",
+   "matchup": "BAL 1, TOR 8",
+   "link": "https://www.mlb.com/gameday/822764",
+   "teams": [
+    "TOR",
+    "BAL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/141.svg",
+    "https://www.mlbstatic.com/team-logos/110.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:35:11+00:00"
+  },
+  {
+   "key": "nfl:401872661:scorigami",
+   "league": "nfl",
+   "category": "never-before",
+   "tier": "legendary",
+   "title": "Scorigami! 59–37 has never happened before",
+   "detail": "CHI 59, CAR 37 is a final score that had never occurred in NFL history.",
+   "date": "2026-09-13T17:00Z",
+   "game_id": "401872661",
+   "matchup": "CHI 59, CAR 37",
+   "link": "https://www.espn.com/nfl/game/_/gameId/401872661",
+   "teams": [
+    "CHI",
+    "CAR"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png"
+   ],
+   "players": [],
+   "facts": [
+    "No NFL game had ever ended 59–37 in 18,241 games since 1920.",
+    "This is the 1096th unique final score in NFL history."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 5.0,
+   "found": "2026-10-24T22:15:10+00:00"
+  },
+  {
+   "key": "nfl:401872661:lopsided-points",
+   "league": "nfl",
+   "category": "wild",
+   "tier": "epic",
+   "title": "Bears hang 59 points",
+   "detail": "Chicago Bears scored 59 in CHI 59, CAR 37.",
+   "date": "2026-09-13T17:00Z",
+   "game_id": "401872661",
+   "matchup": "CHI 59, CAR 37",
+   "link": "https://www.espn.com/nfl/game/_/gameId/401872661",
+   "teams": [
+    "CHI",
+    "CAR"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:35:32+00:00"
+  },
+  {
+   "key": "cfb:401856671:throw-and-catch-td:4880272",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Byrum Brown threw a TD and caught one",
+   "detail": "Byrum Brown (Auburn Tigers) both threw and caught a touchdown pass.",
+   "date": "2026-09-13T00:50Z",
+   "game_id": "401856671",
+   "matchup": "USM 8, AUB 43",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856671",
+   "teams": [
+    "AUB",
+    "USM"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2572.png"
+   ],
+   "players": [
+    "Byrum Brown"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:22+00:00"
+  },
+  {
+   "key": "cfb:401867796:long-play:401867796339",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "100-yard interception return touchdown",
+   "detail": "Jordan McRae went the distance: Jordan McRae 100 Yd Interception Return (Kaegan Kent Kick)",
+   "date": "2026-09-12T23:30Z",
+   "game_id": "401867796",
+   "matchup": "LT 14, LSU 45",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401867796",
+   "teams": [
+    "LT",
+    "LSU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png"
+   ],
+   "players": [
+    "Jordan McRae"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:22+00:00"
+  },
+  {
+   "key": "cfb:401856783:throw-and-catch-td:5212654",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Braden Atkinson threw a TD and caught one",
+   "detail": "Braden Atkinson (Oregon State Beavers) both threw and caught a touchdown pass.",
+   "date": "2026-09-12T23:30Z",
+   "game_id": "401856783",
+   "matchup": "TTU 35, ORST 24",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856783",
+   "teams": [
+    "ORST",
+    "TTU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png"
+   ],
+   "players": [
+    "Braden Atkinson"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:22+00:00"
+  },
+  {
+   "key": "cfb:401862703:long-fg:401862703418",
+   "league": "cfb",
+   "category": "milestone",
+   "tier": "rare",
+   "title": "60-yard field goal",
+   "detail": "Collin Rogers drilled a 60-yarder for Florida Atlantic Owls.",
+   "date": "2026-09-12T23:30Z",
+   "game_id": "401862703",
+   "matchup": "NAVY 30, FAU 38",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401862703",
+   "teams": [
+    "FAU",
+    "NAVY"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2226.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2426.png"
+   ],
+   "players": [
+    "Collin Rogers"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:36:22+00:00"
+  },
+  {
+   "key": "cfb:401866414:throw-and-catch-td:4870883",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "JJ Kohl threw a TD and caught one",
+   "detail": "JJ Kohl (Florida International Panthers) both threw and caught a touchdown pass.",
+   "date": "2026-09-12T22:00Z",
+   "game_id": "401866414",
+   "matchup": "BUFF 20, FIU 33",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401866414",
+   "teams": [
+    "FIU",
+    "BUFF"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2229.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2084.png"
+   ],
+   "players": [
+    "JJ Kohl"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:22+00:00"
+  },
+  {
+   "key": "cfb:401866414:throw-and-catch-td:5218988",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Jojo Stone threw a TD and caught one",
+   "detail": "Jojo Stone (Florida International Panthers) both threw and caught a touchdown pass.",
+   "date": "2026-09-12T22:00Z",
+   "game_id": "401866414",
+   "matchup": "BUFF 20, FIU 33",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401866414",
+   "teams": [
+    "FIU",
+    "BUFF"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2229.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2084.png"
+   ],
+   "players": [
+    "Jojo Stone"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:22+00:00"
+  },
+  {
+   "key": "cfb:401866418:marathon",
+   "league": "cfb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "4 overtimes!",
+   "detail": "JXST 27, OHIO 29 needed 4 overtimes.",
+   "date": "2026-09-12T22:00Z",
+   "game_id": "401866418",
+   "matchup": "JXST 27, OHIO 29",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401866418",
+   "teams": [
+    "JXST",
+    "OHIO"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/55.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/195.png"
+   ],
+   "players": [],
+   "facts": [
+    "The FBS record is nine overtimes (Illinois 20, Penn State 18 in 2021)."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:36:22+00:00"
+  },
+  {
+   "key": "cfb:401856782:upset",
+   "league": "cfb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "24.5-point underdog Oklahoma St win outright",
+   "detail": "Oklahoma State Cowboys were 24.5-point underdogs and won ORE 31, OKST 39.",
+   "date": "2026-09-12T17:30Z",
+   "game_id": "401856782",
+   "matchup": "ORE 31, OKST 39",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856782",
+   "teams": [
+    "OKST",
+    "ORE"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:36:21+00:00"
+  },
+  {
+   "key": "cfb:401856673:scorigami-second",
+   "league": "cfb",
+   "category": "never-before",
+   "tier": "rare",
+   "title": "Only the second 70–20 final ever",
+   "detail": "WKU 20, UGA 70 matches a final score that had happened just once before.",
+   "date": "2026-09-12T16:45Z",
+   "game_id": "401856673",
+   "matchup": "WKU 20, UGA 70",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856673",
+   "teams": [
+    "WKU",
+    "UGA"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png"
+   ],
+   "players": [],
+   "facts": [
+    "The only other 70–20 game in College Football history: UL 70, ULM 20 on 2020-11-28."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:26:05+00:00"
+  },
+  {
+   "key": "cfb:401867929:defense-st-tds:256",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "3 defensive/special-teams touchdowns",
+   "detail": "James Madison Dukes scored 3 touchdowns without their offense on the field.",
+   "date": "2026-09-12T16:00Z",
+   "game_id": "401867929",
+   "matchup": "WAG 3, JMU 87",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401867929",
+   "teams": [
+    "JMU",
+    "WAG"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/256.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2681.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:36:21+00:00"
+  },
+  {
+   "key": "cfb:401867929:scorigami-second",
+   "league": "cfb",
+   "category": "never-before",
+   "tier": "rare",
+   "title": "Only the second 87–3 final ever",
+   "detail": "WAG 3, JMU 87 matches a final score that had happened just once before.",
+   "date": "2026-09-12T16:00Z",
+   "game_id": "401867929",
+   "matchup": "WAG 3, JMU 87",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401867929",
+   "teams": [
+    "WAG",
+    "JMU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2681.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/256.png"
+   ],
+   "players": [],
+   "facts": [
+    "The only other 87–3 game in College Football history: ILWU 3, ILL 87 on 1912-10-05."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:26:05+00:00"
+  },
+  {
+   "key": "cfb:401867929:lopsided-margin",
+   "league": "cfb",
+   "category": "wild",
+   "tier": "epic",
+   "title": "84-point rout",
+   "detail": "James Madison Dukes won by 84: WAG 3, JMU 87.",
+   "date": "2026-09-12T16:00Z",
+   "game_id": "401867929",
+   "matchup": "WAG 3, JMU 87",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401867929",
+   "teams": [
+    "WAG",
+    "JMU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2681.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/256.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:36:21+00:00"
+  },
+  {
+   "key": "mlb:825036:immaculate-inning:6top",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Immaculate inning: Justin Martinez",
+   "detail": "Justin Martinez (Arizona Diamondbacks) struck out the side on 9 pitches in the top of inning 6.",
+   "date": "2026-09-12T01:40:00Z",
+   "game_id": "825036",
+   "matchup": "TEX 1, AZ 9",
+   "link": "https://www.mlb.com/gameday/825036",
+   "teams": [
+    "AZ",
+    "TEX"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/109.svg",
+    "https://www.mlbstatic.com/team-logos/140.svg"
+   ],
+   "players": [
+    "Justin Martinez"
+   ],
+   "facts": [
+    "MLB counted 122 immaculate innings in its entire history entering the 2026 season."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:35:11+00:00"
+  },
+  {
+   "key": "cfb:401856678:kick-six:401856678258",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Kick-six: field goal returned for a touchdown",
+   "detail": "Kansas Jayhawks took a field-goal try back for six. Austin Alexander 88 Yd Return of Blocked Field Goal (Martin Connington Kick)",
+   "date": "2026-09-12T00:00Z",
+   "game_id": "401856678",
+   "matchup": "MIZ 38, KU 21",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856678",
+   "teams": [
+    "KU",
+    "MIZ"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png"
+   ],
+   "players": [
+    "Austin Alexander"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:36:21+00:00"
+  },
+  {
+   "key": "mlb:823736:lopsided-margin",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "20-run rout",
+   "detail": "Milwaukee Brewers won by 20: CIN 0, MIL 20.",
+   "date": "2026-09-11T23:45:00Z",
+   "game_id": "823736",
+   "matchup": "CIN 0, MIL 20",
+   "link": "https://www.mlb.com/gameday/823736",
+   "teams": [
+    "CIN",
+    "MIL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/113.svg",
+    "https://www.mlbstatic.com/team-logos/158.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:35:11+00:00"
+  },
+  {
+   "key": "cfb:401858222:lopsided-margin",
+   "league": "cfb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "73-point rout",
+   "detail": "NC State Wolfpack won by 73: RICH 0, NCSU 73.",
+   "date": "2026-09-11T23:00Z",
+   "game_id": "401858222",
+   "matchup": "RICH 0, NCSU 73",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401858222",
+   "teams": [
+    "RICH",
+    "NCSU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/257.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:36:21+00:00"
+  },
+  {
+   "key": "mlb:823253:consecutive-hr:1bottom",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Back-to-back-to-back home runs",
+   "detail": "San Diego Padres hit 3 consecutive homers in inning 1.",
+   "date": "2026-09-06T20:10:00Z",
+   "game_id": "823253",
+   "matchup": "NYY 3, SD 4",
+   "link": "https://www.mlb.com/gameday/823253",
+   "teams": [
+    "SD",
+    "NYY"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/135.svg",
+    "https://www.mlbstatic.com/team-logos/147.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:35:08+00:00"
+  },
+  {
+   "key": "cfb:401860879:long-play:401860879483",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "100-yard kickoff return touchdown",
+   "detail": "Jaylon Hawkins went the distance: Jaylon Hawkins 100 Yd Kickoff Return (Cooper DiLeva Kick)",
+   "date": "2026-09-06T01:30Z",
+   "game_id": "401860879",
+   "matchup": "PRST 20, SDSU 53",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401860879",
+   "teams": [
+    "SDSU",
+    "PRST"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png"
+   ],
+   "players": [
+    "Jaylon Hawkins"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:21+00:00"
+  },
+  {
+   "key": "cfb:401856775:long-play:401856775413",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "100-yard kickoff return touchdown",
+   "detail": "Cannon DeVries went the distance: Cannon DeVries 100 Yd Kickoff Return (Brody Laga Kick)",
+   "date": "2026-09-06T00:00Z",
+   "game_id": "401856775",
+   "matchup": "UTU 7, BYU 63",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856775",
+   "teams": [
+    "BYU",
+    "UTU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/3101.png"
+   ],
+   "players": [
+    "Cannon DeVries"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:21+00:00"
+  },
+  {
+   "key": "cfb:401869129:scorigami",
+   "league": "cfb",
+   "category": "never-before",
+   "tier": "legendary",
+   "title": "Scorigami! 80–6 has never happened before",
+   "detail": "NWST 6, LT 80 is a final score that had never occurred in College Football history.",
+   "date": "2026-09-05T23:30Z",
+   "game_id": "401869129",
+   "matchup": "NWST 6, LT 80",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401869129",
+   "teams": [
+    "NWST",
+    "LT"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2466.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png"
+   ],
+   "players": [],
+   "facts": [
+    "No College Football game had ever ended 80–6 in 76,048 games since 1873.",
+    "This is the 2202nd unique final score in College Football history."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 5.0,
+   "found": "2026-10-24T22:25:58+00:00"
+  },
+  {
+   "key": "cfb:401869129:lopsided-margin",
+   "league": "cfb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "74-point rout",
+   "detail": "Louisiana Tech Bulldogs won by 74: NWST 6, LT 80.",
+   "date": "2026-09-05T23:30Z",
+   "game_id": "401869129",
+   "matchup": "NWST 6, LT 80",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401869129",
+   "teams": [
+    "NWST",
+    "LT"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2466.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:36:21+00:00"
+  },
+  {
+   "key": "mlb:824311:inside-the-park:49",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Inside-the-park home run: Cole Carrigg",
+   "detail": "Cole Carrigg hits an inside-the-park home run (7) on a fly ball to right-center field.",
+   "date": "2026-09-05T00:40:00Z",
+   "game_id": "824311",
+   "matchup": "STL 7, COL 6",
+   "link": "https://www.mlb.com/gameday/824311",
+   "teams": [
+    "COL",
+    "STL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/115.svg",
+    "https://www.mlbstatic.com/team-logos/138.svg"
+   ],
+   "players": [
+    "Cole Carrigg"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:35:07+00:00"
+  },
+  {
+   "key": "cfb:401856776:long-play:401856776225",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "100-yard kickoff return touchdown",
+   "detail": "Rahkeem Smith went the distance: Rahkeem Smith 100 Yd Kickoff Return (Aidan Birr Kick)",
+   "date": "2026-09-04T00:00Z",
+   "game_id": "401856776",
+   "matchup": "COLO 14, GT 13",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856776",
+   "teams": [
+    "GT",
+    "COLO"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png"
+   ],
+   "players": [
+    "Rahkeem Smith"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:20+00:00"
+  },
+  {
+   "key": "cfb:401856767:scorigami",
+   "league": "cfb",
+   "category": "never-before",
+   "tier": "legendary",
+   "title": "Scorigami! 73–6 has never happened before",
+   "detail": "BCU 6, UCF 73 is a final score that had never occurred in College Football history.",
+   "date": "2026-09-03T23:00Z",
+   "game_id": "401856767",
+   "matchup": "BCU 6, UCF 73",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856767",
+   "teams": [
+    "BCU",
+    "UCF"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2065.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png"
+   ],
+   "players": [],
+   "facts": [
+    "No College Football game had ever ended 73–6 in 75,979 games since 1873.",
+    "This is the 2201st unique final score in College Football history."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 5.0,
+   "found": "2026-10-24T22:25:46+00:00"
+  },
+  {
+   "key": "cfb:401858423:upset",
+   "league": "cfb",
+   "category": "wild",
+   "tier": "epic",
+   "title": "29.5-point underdog UMass win outright",
+   "detail": "Massachusetts Minutemen were 29.5-point underdogs and won MASS 37, RUTG 21.",
+   "date": "2026-09-03T22:00Z",
+   "game_id": "401858423",
+   "matchup": "MASS 37, RUTG 21",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401858423",
+   "teams": [
+    "MASS",
+    "RUTG"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:36:20+00:00"
+  },
+  {
+   "key": "mlb:823340:weird-walkoff",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Walk-off error",
+   "detail": "Rafael Flores Jr. reaches on a throwing error by third baseman Osleivis Basabe. Brandon Lowe scores.",
+   "date": "2026-09-01T22:40:00Z",
+   "game_id": "823340",
+   "matchup": "SF 12, PIT 13",
+   "link": "https://www.mlb.com/gameday/823340",
+   "teams": [
+    "PIT",
+    "SF"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/134.svg",
+    "https://www.mlbstatic.com/team-logos/137.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:35:06+00:00"
+  },
+  {
+   "key": "mlb:822688:steal-of-home:69-2",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Steal of home!",
+   "detail": "Jakob Marsee steals (21) home. Heriberto Hernández steals (10) 2nd base.",
+   "date": "2026-08-30T16:15:00Z",
+   "game_id": "822688",
+   "matchup": "MIA 6, WSH 2",
+   "link": "https://www.mlb.com/gameday/822688",
+   "teams": [
+    "MIA",
+    "WSH"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/146.svg",
+    "https://www.mlbstatic.com/team-logos/120.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:35:05+00:00"
+  },
+  {
+   "key": "mlb:823180:comeback",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Reds storm back from 6 runs down",
+   "detail": "Cincinnati Reds trailed by 6 and won CIN 10, SF 9.",
+   "date": "2026-08-26T19:45:00Z",
+   "game_id": "823180",
+   "matchup": "CIN 10, SF 9",
+   "link": "https://www.mlb.com/gameday/823180",
+   "teams": [
+    "CIN",
+    "SF"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/113.svg",
+    "https://www.mlbstatic.com/team-logos/137.svg"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in MLB history is 12 runs, done only three times."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:35:03+00:00"
+  },
+  {
+   "key": "mlb:824962:immaculate-inning:5bottom",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Immaculate inning: Taj Bradley",
+   "detail": "Taj Bradley (Minnesota Twins) struck out the side on 9 pitches in the bottom of inning 5.",
+   "date": "2026-08-26T01:40:00Z",
+   "game_id": "824962",
+   "matchup": "MIN 2, ATH 4",
+   "link": "https://www.mlb.com/gameday/824962",
+   "teams": [
+    "MIN",
+    "ATH"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/142.svg",
+    "https://www.mlbstatic.com/team-logos/133.svg"
+   ],
+   "players": [
+    "Taj Bradley"
+   ],
+   "facts": [
+    "MLB counted 122 immaculate innings in its entire history entering the 2026 season."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:35:02+00:00"
+  },
+  {
+   "key": "mlb:824150:comeback",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Athletics storm back from 6 runs down",
+   "detail": "Athletics trailed by 6 and won ATH 7, HOU 6.",
+   "date": "2026-08-23T18:10:00Z",
+   "game_id": "824150",
+   "matchup": "ATH 7, HOU 6",
+   "link": "https://www.mlb.com/gameday/824150",
+   "teams": [
+    "ATH",
+    "HOU"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/133.svg",
+    "https://www.mlbstatic.com/team-logos/117.svg"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in MLB history is 12 runs, done only three times."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:35:01+00:00"
+  },
+  {
+   "key": "mlb:825044:cycle:668709",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "JJ Bleday hits for the cycle",
+   "detail": "JJ Bleday (Cincinnati Reds) singled, doubled, tripled and homered.",
+   "date": "2026-08-23T00:10:00Z",
+   "game_id": "825044",
+   "matchup": "CIN 11, AZ 5",
+   "link": "https://www.mlb.com/gameday/825044",
+   "teams": [
+    "CIN",
+    "AZ"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/113.svg",
+    "https://www.mlbstatic.com/team-logos/109.svg"
+   ],
+   "players": [
+    "JJ Bleday"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:35:01+00:00"
+  },
+  {
+   "key": "mlb:824559:consecutive-hr:6bottom",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Back-to-back-to-back home runs",
+   "detail": "Chicago White Sox hit 3 consecutive homers in inning 6.",
+   "date": "2026-08-21T23:40:00Z",
+   "game_id": "824559",
+   "matchup": "NYM 4, CWS 6",
+   "link": "https://www.mlb.com/gameday/824559",
+   "teams": [
+    "CWS",
+    "NYM"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/145.svg",
+    "https://www.mlbstatic.com/team-logos/121.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:35:00+00:00"
+  },
+  {
+   "key": "mlb:824801:steal-of-home:8-5",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Steal of home!",
+   "detail": "Jackson Holliday steals (7) home. Gunnar Henderson steals (10) 2nd base.",
+   "date": "2026-08-19T22:35:00Z",
+   "game_id": "824801",
+   "matchup": "NYY 5, BAL 3",
+   "link": "https://www.mlb.com/gameday/824801",
+   "teams": [
+    "BAL",
+    "NYY"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/110.svg",
+    "https://www.mlbstatic.com/team-logos/147.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:35:00+00:00"
+  },
+  {
+   "key": "mlb:823749:lopsided-margin",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "epic",
+   "title": "22-run rout",
+   "detail": "Milwaukee Brewers won by 22: SEA 0, MIL 22.",
+   "date": "2026-08-18T23:40:00Z",
+   "game_id": "823749",
+   "matchup": "SEA 0, MIL 22",
+   "link": "https://www.mlb.com/gameday/823749",
+   "teams": [
+    "SEA",
+    "MIL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/136.svg",
+    "https://www.mlbstatic.com/team-logos/158.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:34:59+00:00"
+  },
+  {
+   "key": "mlb:824969:steal-of-home:9-4",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Steal of home!",
+   "detail": "Tyler Soderstrom steals (2) home. Carlos Cortes steals (2) 2nd base. Carlos Cortes advances to 3rd, on a throwing error by catcher Nick Fortes.",
+   "date": "2026-08-11T01:40:00Z",
+   "game_id": "824969",
+   "matchup": "TB 10, ATH 6",
+   "link": "https://www.mlb.com/gameday/824969",
+   "teams": [
+    "ATH",
+    "TB"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/133.svg",
+    "https://www.mlbstatic.com/team-logos/139.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:34:47+00:00"
+  },
+  {
+   "key": "mlb:824568:weird-walkoff",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Walk-off walk",
+   "detail": "Tristan Peters walks. Chase Meidroth scores. Munetaka Murakami to 3rd. Sam Antonacci to 2nd.",
+   "date": "2026-07-30T18:10:00Z",
+   "game_id": "824568",
+   "matchup": "NYY 1, CWS 2",
+   "link": "https://www.mlb.com/gameday/824568",
+   "teams": [
+    "CWS",
+    "NYY"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/145.svg",
+    "https://www.mlbstatic.com/team-logos/147.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:34:39+00:00"
+  },
+  {
+   "key": "mlb:823674:walkoff-slam",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "legendary",
+   "title": "ULTIMATE grand slam: Kody Clemens",
+   "detail": "Kody Clemens hits a grand slam (19) to right center field. Ryan Jeffers scores. Royce Lewis scores. Alan Roden scores. Down three, last swing, game over.",
+   "date": "2026-07-30T17:40:00Z",
+   "game_id": "823674",
+   "matchup": "KC 3, MIN 4",
+   "link": "https://www.mlb.com/gameday/823674",
+   "teams": [
+    "MIN",
+    "KC"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/142.svg",
+    "https://www.mlbstatic.com/team-logos/118.svg"
+   ],
+   "players": [
+    "Kody Clemens"
+   ],
+   "facts": [
+    "The 'ultimate grand slam' is the only single swing that can turn a three-run deficit into a walk-off win."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 4.6,
+   "found": "2026-10-24T22:34:39+00:00"
+  },
+  {
+   "key": "mlb:824242:comeback",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Orioles storm back from 7 runs down",
+   "detail": "Baltimore Orioles trailed by 7 and won BAL 10, DET 9.",
+   "date": "2026-07-29T17:10:00Z",
+   "game_id": "824242",
+   "matchup": "BAL 10, DET 9",
+   "link": "https://www.mlb.com/gameday/824242",
+   "teams": [
+    "BAL",
+    "DET"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/110.svg",
+    "https://www.mlbstatic.com/team-logos/116.svg"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in MLB history is 12 runs, done only three times."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:34:38+00:00"
+  },
+  {
+   "key": "mlb:823837:comeback",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Marlins storm back from 6 runs down",
+   "detail": "Miami Marlins trailed by 6 and won PHI 6, MIA 8.",
+   "date": "2026-07-29T16:10:00Z",
+   "game_id": "823837",
+   "matchup": "PHI 6, MIA 8",
+   "link": "https://www.mlb.com/gameday/823837",
+   "teams": [
+    "MIA",
+    "PHI"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/146.svg",
+    "https://www.mlbstatic.com/team-logos/143.svg"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in MLB history is 12 runs, done only three times."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:34:38+00:00"
+  },
+  {
+   "key": "mlb:823676:steal-of-home:40-4",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Steal of home!",
+   "detail": "Josh Rojas steals (1) home. Lane Thomas steals (7) 2nd base.",
+   "date": "2026-07-28T23:40:00Z",
+   "game_id": "823676",
+   "matchup": "KC 2, MIN 3",
+   "link": "https://www.mlb.com/gameday/823676",
+   "teams": [
+    "KC",
+    "MIN"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/118.svg",
+    "https://www.mlbstatic.com/team-logos/142.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:34:38+00:00"
+  },
+  {
+   "key": "mlb:824243:every-inning:home",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Tigers score in every inning",
+   "detail": "Detroit Tigers put a run on the board in all 8 innings they batted.",
+   "date": "2026-07-28T22:40:00Z",
+   "game_id": "824243",
+   "matchup": "BAL 0, DET 14",
+   "link": "https://www.mlb.com/gameday/824243",
+   "teams": [
+    "DET",
+    "BAL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/116.svg",
+    "https://www.mlbstatic.com/team-logos/110.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:34:38+00:00"
+  },
+  {
+   "key": "mlb:824406:immaculate-inning:4top",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Immaculate inning: Gavin Williams",
+   "detail": "Gavin Williams (Cleveland Guardians) struck out the side on 9 pitches in the top of inning 4.",
+   "date": "2026-07-23T17:10:00Z",
+   "game_id": "824406",
+   "matchup": "MIN 3, CLE 1",
+   "link": "https://www.mlb.com/gameday/824406",
+   "teams": [
+    "CLE",
+    "MIN"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/114.svg",
+    "https://www.mlbstatic.com/team-logos/142.svg"
+   ],
+   "players": [
+    "Gavin Williams"
+   ],
+   "facts": [
+    "MLB counted 122 immaculate innings in its entire history entering the 2026 season."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:34:34+00:00"
+  },
+  {
+   "key": "mlb:824165:triple-play:65",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Triple play",
+   "detail": "Jose Altuve grounds into a triple play, third baseman Leo Jiménez to second baseman Xavier Edwards to first baseman Kyle Stowers. Yordan Alvarez out at 3rd. Isaac Paredes out at 2nd. Jose Altuve out at 1st.",
+   "date": "2026-07-22T00:10:00Z",
+   "game_id": "824165",
+   "matchup": "MIA 3, HOU 5",
+   "link": "https://www.mlb.com/gameday/824165",
+   "teams": [
+    "MIA",
+    "HOU"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/146.svg",
+    "https://www.mlbstatic.com/team-logos/117.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:34:32+00:00"
+  },
+  {
+   "key": "mlb:824652:position-player-pitching:668670",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Position player Jake Rogers pitches and struck out 2",
+   "detail": "Jake Rogers, normally a C, took the mound for the Detroit Tigers and struck out 2 (1.0 IP, 2 K).",
+   "date": "2026-07-22T00:05:00Z",
+   "game_id": "824652",
+   "matchup": "DET 2, CHC 11",
+   "link": "https://www.mlb.com/gameday/824652",
+   "teams": [
+    "DET",
+    "CHC"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/116.svg",
+    "https://www.mlbstatic.com/team-logos/112.svg"
+   ],
+   "players": [
+    "Jake Rogers"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:34:32+00:00"
+  },
+  {
+   "key": "mlb:824006:weird-walkoff",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Walk-off hit-by-pitch",
+   "detail": "Jo Adell hit by pitch. Jose Siri scores. Vaughn Grissom to 3rd. Josh Lowe to 2nd.",
+   "date": "2026-07-21T02:10:00Z",
+   "game_id": "824006",
+   "matchup": "STL 2, LAA 3",
+   "link": "https://www.mlb.com/gameday/824006",
+   "teams": [
+    "LAA",
+    "STL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/108.svg",
+    "https://www.mlbstatic.com/team-logos/138.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:34:32+00:00"
+  },
+  {
+   "key": "mlb:825057:inside-the-park:65",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Inside-the-park home run: Geraldo Perdomo",
+   "detail": "Geraldo Perdomo hits an inside-the-park home run (7) on a line drive to left field. Adrian Del Castillo scores.",
+   "date": "2026-07-19T20:10:00Z",
+   "game_id": "825057",
+   "matchup": "STL 7, AZ 8",
+   "link": "https://www.mlb.com/gameday/825057",
+   "teams": [
+    "AZ",
+    "STL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/109.svg",
+    "https://www.mlbstatic.com/team-logos/138.svg"
+   ],
+   "players": [
+    "Geraldo Perdomo"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:34:30+00:00"
+  },
+  {
+   "key": "mlb:825057:comeback",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "D-backs storm back from 7 runs down",
+   "detail": "Arizona Diamondbacks trailed by 7 and won STL 7, AZ 8.",
+   "date": "2026-07-19T20:10:00Z",
+   "game_id": "825057",
+   "matchup": "STL 7, AZ 8",
+   "link": "https://www.mlb.com/gameday/825057",
+   "teams": [
+    "AZ",
+    "STL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/109.svg",
+    "https://www.mlbstatic.com/team-logos/138.svg"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in MLB history is 12 runs, done only three times."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:34:30+00:00"
+  },
+  {
+   "key": "mlb:824739:inside-the-park:9",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Inside-the-park home run: Victor Mesa Jr.",
+   "detail": "Victor Mesa Jr. hits an inside-the-park home run (7) on a line drive to right-center field.",
+   "date": "2026-07-19T17:35:00Z",
+   "game_id": "824739",
+   "matchup": "TB 1, BOS 6",
+   "link": "https://www.mlb.com/gameday/824739",
+   "teams": [
+    "TB",
+    "BOS"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/139.svg",
+    "https://www.mlbstatic.com/team-logos/111.svg"
+   ],
+   "players": [
+    "Victor Mesa Jr."
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:34:29+00:00"
+  },
+  {
+   "key": "mlb:824981:lopsided-points",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Nationals hang 23 runs",
+   "detail": "Washington Nationals scored 23 in WSH 23, ATH 4.",
+   "date": "2026-07-18T01:40:00Z",
+   "game_id": "824981",
+   "matchup": "WSH 23, ATH 4",
+   "link": "https://www.mlb.com/gameday/824981",
+   "teams": [
+    "WSH",
+    "ATH"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/120.svg",
+    "https://www.mlbstatic.com/team-logos/133.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:34:28+00:00"
+  },
+  {
+   "key": "mlb:824332:inside-the-park:57",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Inside-the-park home run: Spencer Steer",
+   "detail": "Spencer Steer hits an inside-the-park home run (16) on a fly ball to right-center field.",
+   "date": "2026-07-18T00:40:00Z",
+   "game_id": "824332",
+   "matchup": "CIN 7, COL 2",
+   "link": "https://www.mlb.com/gameday/824332",
+   "teams": [
+    "CIN",
+    "COL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/113.svg",
+    "https://www.mlbstatic.com/team-logos/115.svg"
+   ],
+   "players": [
+    "Spencer Steer"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:34:28+00:00"
+  },
+  {
+   "key": "mlb:823199:inside-the-park:0",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Inside-the-park home run: Jake McCarthy",
+   "detail": "Jake McCarthy hits an inside-the-park home run (10) on a fly ball to right field.",
+   "date": "2026-07-12T20:05:00Z",
+   "game_id": "823199",
+   "matchup": "COL 1, SF 3",
+   "link": "https://www.mlb.com/gameday/823199",
+   "teams": [
+    "COL",
+    "SF"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/115.svg",
+    "https://www.mlbstatic.com/team-logos/137.svg"
+   ],
+   "players": [
+    "Jake McCarthy"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:34:27+00:00"
+  },
+  {
+   "key": "mlb:824575:cycle:671976",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Tristan Peters hits for the cycle",
+   "detail": "Tristan Peters (Chicago White Sox) singled, doubled, tripled and homered.",
+   "date": "2026-07-10T23:40:00Z",
+   "game_id": "824575",
+   "matchup": "ATH 1, CWS 14",
+   "link": "https://www.mlb.com/gameday/824575",
+   "teams": [
+    "CWS",
+    "ATH"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/145.svg",
+    "https://www.mlbstatic.com/team-logos/133.svg"
+   ],
+   "players": [
+    "Tristan Peters"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:34:25+00:00"
+  },
+  {
+   "key": "mlb:824496:consecutive-hr:4bottom",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Back-to-back-to-back home runs",
+   "detail": "Cincinnati Reds hit 3 consecutive homers in inning 4.",
+   "date": "2026-07-08T23:10:00Z",
+   "game_id": "824496",
+   "matchup": "PHI 5, CIN 11",
+   "link": "https://www.mlb.com/gameday/824496",
+   "teams": [
+    "CIN",
+    "PHI"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/113.svg",
+    "https://www.mlbstatic.com/team-logos/143.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:34:23+00:00"
+  },
+  {
+   "key": "mlb:823361:big-rbi:656811",
+   "league": "mlb",
+   "category": "milestone",
+   "tier": "epic",
+   "title": "Ryan O'Hearn: 10 RBIs",
+   "detail": "Ryan O'Hearn (Pittsburgh Pirates) drove in 10.",
+   "date": "2026-07-07T22:40:00Z",
+   "game_id": "823361",
+   "matchup": "ATL 4, PIT 12",
+   "link": "https://www.mlb.com/gameday/823361",
+   "teams": [
+    "PIT",
+    "ATL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/134.svg",
+    "https://www.mlbstatic.com/team-logos/144.svg"
+   ],
+   "players": [
+    "Ryan O'Hearn"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:34:22+00:00"
+  },
+  {
+   "key": "mlb:823205:steal-of-home:39-3",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Steal of home!",
+   "detail": "Victor Bericoto steals (1) home. Luis Arraez steals (7) 2nd base.",
+   "date": "2026-07-07T01:45:00Z",
+   "game_id": "823205",
+   "matchup": "TOR 1, SF 10",
+   "link": "https://www.mlb.com/gameday/823205",
+   "teams": [
+    "SF",
+    "TOR"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/137.svg",
+    "https://www.mlbstatic.com/team-logos/141.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:34:22+00:00"
+  },
+  {
+   "key": "mlb:824089:every-inning:home",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Royals score in every inning",
+   "detail": "Kansas City Royals put a run on the board in all 8 innings they batted.",
+   "date": "2026-07-06T18:10:00Z",
+   "game_id": "824089",
+   "matchup": "PHI 1, KC 15",
+   "link": "https://www.mlb.com/gameday/824089",
+   "teams": [
+    "KC",
+    "PHI"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/118.svg",
+    "https://www.mlbstatic.com/team-logos/143.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:34:22+00:00"
+  },
+  {
+   "key": "mlb:822716:steal-of-home:4-3",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Steal of home!",
+   "detail": "Konnor Griffin steals (19) home. Bryan Reynolds steals (6) 2nd base.",
+   "date": "2026-07-04T15:05:00Z",
+   "game_id": "822716",
+   "matchup": "PIT 7, WSH 1",
+   "link": "https://www.mlb.com/gameday/822716",
+   "teams": [
+    "PIT",
+    "WSH"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/134.svg",
+    "https://www.mlbstatic.com/team-logos/120.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:34:20+00:00"
+  },
+  {
+   "key": "mlb:823935:comeback",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Dodgers storm back from 6 runs down",
+   "detail": "Los Angeles Dodgers trailed by 6 and won SD 7, LAD 12.",
+   "date": "2026-07-03T02:10:00Z",
+   "game_id": "823935",
+   "matchup": "SD 7, LAD 12",
+   "link": "https://www.mlb.com/gameday/823935",
+   "teams": [
+    "LAD",
+    "SD"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/119.svg",
+    "https://www.mlbstatic.com/team-logos/135.svg"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in MLB history is 12 runs, done only three times."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:34:19+00:00"
+  },
+  {
+   "key": "mlb:824337:inside-the-park:50",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Inside-the-park home run: Joe Mack",
+   "detail": "Joe Mack hits an inside-the-park home run (6) on a sharp fly ball to right-center field.",
+   "date": "2026-07-02T00:40:00Z",
+   "game_id": "824337",
+   "matchup": "MIA 3, COL 6",
+   "link": "https://www.mlb.com/gameday/824337",
+   "teams": [
+    "MIA",
+    "COL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/146.svg",
+    "https://www.mlbstatic.com/team-logos/115.svg"
+   ],
+   "players": [
+    "Joe Mack"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:34:19+00:00"
+  },
+  {
+   "key": "mlb:824660:lopsided-points",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Cubs hang 23 runs",
+   "detail": "Chicago Cubs scored 23 in SD 3, CHC 23.",
+   "date": "2026-07-01T18:20:00Z",
+   "game_id": "824660",
+   "matchup": "SD 3, CHC 23",
+   "link": "https://www.mlb.com/gameday/824660",
+   "teams": [
+    "SD",
+    "CHC"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/135.svg",
+    "https://www.mlbstatic.com/team-logos/112.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:34:18+00:00"
+  },
+  {
+   "key": "mlb:824582:lopsided-margin",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "epic",
+   "title": "21-run rout",
+   "detail": "Chicago White Sox won by 21: KC 1, CWS 22.",
+   "date": "2026-06-26T23:40:00Z",
+   "game_id": "824582",
+   "matchup": "KC 1, CWS 22",
+   "link": "https://www.mlb.com/gameday/824582",
+   "teams": [
+    "KC",
+    "CWS"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/118.svg",
+    "https://www.mlbstatic.com/team-logos/145.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:34:14+00:00"
+  },
+  {
+   "key": "mlb:822799:consecutive-hr:4top",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Back-to-back-to-back home runs",
+   "detail": "Houston Astros hit 3 consecutive homers in inning 4.",
+   "date": "2026-06-23T20:07:00Z",
+   "game_id": "822799",
+   "matchup": "HOU 9, TOR 7",
+   "link": "https://www.mlb.com/gameday/822799",
+   "teams": [
+    "HOU",
+    "TOR"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/117.svg",
+    "https://www.mlbstatic.com/team-logos/141.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:34:12+00:00"
+  },
+  {
+   "key": "mlb:824342:inside-the-park:5",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Inside-the-park home run: Jake McCarthy",
+   "detail": "Jake McCarthy hits an inside-the-park home run (5) on a line drive to right-center field.",
+   "date": "2026-06-21T01:10:00Z",
+   "game_id": "824342",
+   "matchup": "PIT 1, COL 2",
+   "link": "https://www.mlb.com/gameday/824342",
+   "teams": [
+    "COL",
+    "PIT"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/115.svg",
+    "https://www.mlbstatic.com/team-logos/134.svg"
+   ],
+   "players": [
+    "Jake McCarthy"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:34:10+00:00"
+  },
+  {
+   "key": "mlb:823447:cycle:547180",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Bryce Harper hits for the cycle",
+   "detail": "Bryce Harper (Philadelphia Phillies) singled, doubled, tripled and homered.",
+   "date": "2026-06-20T23:15:00Z",
+   "game_id": "823447",
+   "matchup": "NYM 3, PHI 15",
+   "link": "https://www.mlb.com/gameday/823447",
+   "teams": [
+    "PHI",
+    "NYM"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/143.svg",
+    "https://www.mlbstatic.com/team-logos/121.svg"
+   ],
+   "players": [
+    "Bryce Harper"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:34:10+00:00"
+  },
+  {
+   "key": "mlb:824990:weird-walkoff",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Walk-off walk",
+   "detail": "Nick Kurtz walks. Lawrence Butler scores. Henry Bolte to 3rd. Zack Gelof to 2nd.",
+   "date": "2026-06-20T01:40:00Z",
+   "game_id": "824990",
+   "matchup": "LAA 11, ATH 12",
+   "link": "https://www.mlb.com/gameday/824990",
+   "teams": [
+    "ATH",
+    "LAA"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/133.svg",
+    "https://www.mlbstatic.com/team-logos/108.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:34:09+00:00"
+  },
+  {
+   "key": "mlb:824990:comeback",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Athletics storm back from 7 runs down",
+   "detail": "Athletics trailed by 7 and won LAA 11, ATH 12.",
+   "date": "2026-06-20T01:40:00Z",
+   "game_id": "824990",
+   "matchup": "LAA 11, ATH 12",
+   "link": "https://www.mlb.com/gameday/824990",
+   "teams": [
+    "ATH",
+    "LAA"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/133.svg",
+    "https://www.mlbstatic.com/team-logos/108.svg"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in MLB history is 12 runs, done only three times."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:34:09+00:00"
+  },
+  {
+   "key": "mlb:824666:cycle:691718",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "legendary",
+   "title": "Pete Crow-Armstrong hits for the REVERSE natural cycle",
+   "detail": "Pete Crow-Armstrong (Chicago Cubs) homered, tripled, doubled and singled — in exactly the reverse order.",
+   "date": "2026-06-16T00:05:00Z",
+   "game_id": "824666",
+   "matchup": "COL 4, CHC 5",
+   "link": "https://www.mlb.com/gameday/824666",
+   "teams": [
+    "CHC",
+    "COL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/112.svg",
+    "https://www.mlbstatic.com/team-logos/115.svg"
+   ],
+   "players": [
+    "Pete Crow-Armstrong"
+   ],
+   "facts": [
+    "The reverse natural cycle (homer, triple, double, single in order) is rarer still: only a handful have ever been recorded in MLB history."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 4.6,
+   "found": "2026-10-24T22:34:07+00:00"
+  },
+  {
+   "key": "mlb:824666:weird-walkoff",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Walk-off walk",
+   "detail": "Matt Shaw walks. Ian Happ scores. Nico Hoerner to 3rd. Pedro Ramírez to 2nd.",
+   "date": "2026-06-16T00:05:00Z",
+   "game_id": "824666",
+   "matchup": "COL 4, CHC 5",
+   "link": "https://www.mlb.com/gameday/824666",
+   "teams": [
+    "CHC",
+    "COL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/112.svg",
+    "https://www.mlbstatic.com/team-logos/115.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:34:07+00:00"
+  },
+  {
+   "key": "mlb:824994:scorigami-second",
+   "league": "mlb",
+   "category": "never-before",
+   "tier": "rare",
+   "title": "Only the second 23–9 final ever",
+   "detail": "COL 23, ATH 9 matches a final score that had happened just once before.",
+   "date": "2026-06-14T19:05:00Z",
+   "game_id": "824994",
+   "matchup": "COL 23, ATH 9",
+   "link": "https://www.mlb.com/gameday/824994",
+   "teams": [
+    "COL",
+    "ATH"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/115.svg",
+    "https://www.mlbstatic.com/team-logos/133.svg"
+   ],
+   "players": [],
+   "facts": [
+    "The only other 23–9 game in MLB history: CIN 23, ATL 9 on 1977-04-25."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:07:10+00:00"
+  },
+  {
+   "key": "mlb:824994:lopsided-points",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Rockies hang 23 runs",
+   "detail": "Colorado Rockies scored 23 in COL 23, ATH 9.",
+   "date": "2026-06-14T19:05:00Z",
+   "game_id": "824994",
+   "matchup": "COL 23, ATH 9",
+   "link": "https://www.mlb.com/gameday/824994",
+   "teams": [
+    "COL",
+    "ATH"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/115.svg",
+    "https://www.mlbstatic.com/team-logos/133.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:34:06+00:00"
+  },
+  {
+   "key": "mlb:822725:steal-of-home:63-5",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Steal of home!",
+   "detail": "CJ Abrams steals (11) home.",
+   "date": "2026-06-13T20:05:00Z",
+   "game_id": "822725",
+   "matchup": "SEA 3, WSH 8",
+   "link": "https://www.mlb.com/gameday/822725",
+   "teams": [
+    "WSH",
+    "SEA"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/120.svg",
+    "https://www.mlbstatic.com/team-logos/136.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:34:05+00:00"
+  },
+  {
+   "key": "mlb:823778:maddux:home",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "A Maddux: Jacob Misiorowski needs only 95 pitches",
+   "detail": "Jacob Misiorowski threw a complete-game shutout on 95 pitches.",
+   "date": "2026-06-12T23:40:00Z",
+   "game_id": "823778",
+   "matchup": "PHI 0, MIL 6",
+   "link": "https://www.mlb.com/gameday/823778",
+   "teams": [
+    "MIL",
+    "PHI"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/158.svg",
+    "https://www.mlbstatic.com/team-logos/143.svg"
+   ],
+   "players": [
+    "Jacob Misiorowski"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:34:05+00:00"
+  },
+  {
+   "key": "nba:401859966:comeback",
+   "league": "nba",
+   "category": "wild",
+   "tier": "epic",
+   "title": "Knicks storm back from 29 points down",
+   "detail": "New York Knicks trailed by 29 and won SA 106, NY 107.",
+   "date": "2026-06-11T00:30Z",
+   "game_id": "401859966",
+   "matchup": "SA 106, NY 107",
+   "link": "https://www.espn.com/nba/game/_/gameId/401859966",
+   "teams": [
+    "NY",
+    "SA"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in NBA history is 36 points (Jazz over the Nuggets, 1996)."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:36:15+00:00"
+  },
+  {
+   "key": "mlb:823215:walkoff-slam",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "legendary",
+   "title": "ULTIMATE grand slam: Bryce Eldridge",
+   "detail": "Bryce Eldridge hits a grand slam (4) to right field. Matt Chapman scores. Rafael Devers scores. Jung Hoo Lee scores. Down three, last swing, game over.",
+   "date": "2026-06-10T19:45:00Z",
+   "game_id": "823215",
+   "matchup": "WSH 10, SF 11",
+   "link": "https://www.mlb.com/gameday/823215",
+   "teams": [
+    "SF",
+    "WSH"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/137.svg",
+    "https://www.mlbstatic.com/team-logos/120.svg"
+   ],
+   "players": [
+    "Bryce Eldridge"
+   ],
+   "facts": [
+    "The 'ultimate grand slam' is the only single swing that can turn a three-run deficit into a walk-off win."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 4.6,
+   "found": "2026-10-24T22:34:03+00:00"
+  },
+  {
+   "key": "mlb:823215:comeback",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "epic",
+   "title": "Giants storm back from 8 runs down",
+   "detail": "San Francisco Giants trailed by 8 and won WSH 10, SF 11.",
+   "date": "2026-06-10T19:45:00Z",
+   "game_id": "823215",
+   "matchup": "WSH 10, SF 11",
+   "link": "https://www.mlb.com/gameday/823215",
+   "teams": [
+    "SF",
+    "WSH"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/137.svg",
+    "https://www.mlbstatic.com/team-logos/120.svg"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in MLB history is 12 runs, done only three times."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:34:03+00:00"
+  },
+  {
+   "key": "mlb:824672:inside-the-park:37",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Inside-the-park home run: Shea Langeliers",
+   "detail": "Shea Langeliers hits an inside-the-park home run (16) on a fly ball to center field. Henry Bolte scores.",
+   "date": "2026-06-05T00:05:00Z",
+   "game_id": "824672",
+   "matchup": "ATH 6, CHC 7",
+   "link": "https://www.mlb.com/gameday/824672",
+   "teams": [
+    "ATH",
+    "CHC"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/133.svg",
+    "https://www.mlbstatic.com/team-logos/112.svg"
+   ],
+   "players": [
+    "Shea Langeliers"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:33:59+00:00"
+  },
+  {
+   "key": "mlb:822728:consecutive-hr:5top",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Back-to-back-to-back home runs",
+   "detail": "Miami Marlins hit 3 consecutive homers in inning 5.",
+   "date": "2026-06-02T22:45:00Z",
+   "game_id": "822728",
+   "matchup": "MIA 7, WSH 3",
+   "link": "https://www.mlb.com/gameday/822728",
+   "teams": [
+    "MIA",
+    "WSH"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/146.svg",
+    "https://www.mlbstatic.com/team-logos/120.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:33:58+00:00"
+  },
+  {
+   "key": "mlb:822974:consecutive-hr:3top",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Back-to-back-to-back home runs",
+   "detail": "Detroit Tigers hit 3 consecutive homers in inning 3.",
+   "date": "2026-06-01T22:40:00Z",
+   "game_id": "822974",
+   "matchup": "DET 10, TB 9",
+   "link": "https://www.mlb.com/gameday/822974",
+   "teams": [
+    "DET",
+    "TB"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/116.svg",
+    "https://www.mlbstatic.com/team-logos/139.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:33:55+00:00"
+  },
+  {
+   "key": "mlb:825001:big-inning:3top",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "epic",
+   "title": "13-run inning",
+   "detail": "New York Yankees sent 18 batters to the plate and scored 13 in inning 3.",
+   "date": "2026-05-31T20:05:00Z",
+   "game_id": "825001",
+   "matchup": "NYY 13, ATH 8",
+   "link": "https://www.mlb.com/gameday/825001",
+   "teams": [
+    "NYY",
+    "ATH"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/147.svg",
+    "https://www.mlbstatic.com/team-logos/133.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:33:55+00:00"
+  },
+  {
+   "key": "mlb:822899:no-hitter:away",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Combined no-hitter by the Astros",
+   "detail": "Tatsuya Imai + Steven Okert + Alimber Santa held the Texas Rangers hitless in HOU 9, TEX 0.",
+   "date": "2026-05-25T23:05:00Z",
+   "game_id": "822899",
+   "matchup": "HOU 9, TEX 0",
+   "link": "https://www.mlb.com/gameday/822899",
+   "teams": [
+    "HOU",
+    "TEX"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/117.svg",
+    "https://www.mlbstatic.com/team-logos/140.svg"
+   ],
+   "players": [
+    "Tatsuya Imai",
+    "Steven Okert",
+    "Alimber Santa"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:33:51+00:00"
+  },
+  {
+   "key": "mlb:823861:walkoff-slam",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Walk-off grand slam: Heriberto Hernández",
+   "detail": "Heriberto Hernández hits a grand slam (2) to center field. Esteury Ruiz scores. Liam Hicks scores. Xavier Edwards scores.",
+   "date": "2026-05-24T17:40:00Z",
+   "game_id": "823861",
+   "matchup": "NYM 0, MIA 4",
+   "link": "https://www.mlb.com/gameday/823861",
+   "teams": [
+    "MIA",
+    "NYM"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/146.svg",
+    "https://www.mlbstatic.com/team-logos/121.svg"
+   ],
+   "players": [
+    "Heriberto Hernández"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:33:50+00:00"
+  },
+  {
+   "key": "mlb:822736:inside-the-park:21",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Inside-the-park grand slam: James Wood",
+   "detail": "James Wood hits an inside-the-park grand slam (13) on a fly ball to left-center field. Jorbit Vivas scores. Drew Millas scores. Nasim Nuñez scores.",
+   "date": "2026-05-19T22:45:00Z",
+   "game_id": "822736",
+   "matchup": "NYM 6, WSH 9",
+   "link": "https://www.mlb.com/gameday/822736",
+   "teams": [
+    "WSH",
+    "NYM"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/120.svg",
+    "https://www.mlbstatic.com/team-logos/121.svg"
+   ],
+   "players": [
+    "James Wood"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:33:46+00:00"
+  },
+  {
+   "key": "mlb:823384:comeback",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Phillies storm back from 6 runs down",
+   "detail": "Philadelphia Phillies trailed by 6 and won PHI 11, PIT 9.",
+   "date": "2026-05-15T22:40:00Z",
+   "game_id": "823384",
+   "matchup": "PHI 11, PIT 9",
+   "link": "https://www.mlb.com/gameday/823384",
+   "teams": [
+    "PHI",
+    "PIT"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/143.svg",
+    "https://www.mlbstatic.com/team-logos/134.svg"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in MLB history is 12 runs, done only three times."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:33:42+00:00"
+  },
+  {
+   "key": "mlb:823950:inside-the-park:35",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Inside-the-park home run: Jung Hoo Lee",
+   "detail": "Jung Hoo Lee hits an inside-the-park home run (3) on a fly ball down the left-field line. Eric Haase scores.",
+   "date": "2026-05-15T02:10:00Z",
+   "game_id": "823950",
+   "matchup": "SF 2, LAD 5",
+   "link": "https://www.mlb.com/gameday/823950",
+   "teams": [
+    "SF",
+    "LAD"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/137.svg",
+    "https://www.mlbstatic.com/team-logos/119.svg"
+   ],
+   "players": [
+    "Jung Hoo Lee"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:33:42+00:00"
+  },
+  {
+   "key": "mlb:822815:walkoff-slam",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Walk-off grand slam: Daulton Varsho",
+   "detail": "Daulton Varsho hits a grand slam (5) to left field. George Springer scores. Vladimir Guerrero Jr. scores. Kazuma Okamoto scores.",
+   "date": "2026-05-13T23:07:00Z",
+   "game_id": "822815",
+   "matchup": "TB 3, TOR 5",
+   "link": "https://www.mlb.com/gameday/822815",
+   "teams": [
+    "TOR",
+    "TB"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/141.svg",
+    "https://www.mlbstatic.com/team-logos/139.svg"
+   ],
+   "players": [
+    "Daulton Varsho"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:33:42+00:00"
+  },
+  {
+   "key": "mlb:823712:maddux:home",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "A Maddux: Bailey Ober needs only 89 pitches",
+   "detail": "Bailey Ober threw a complete-game shutout on 89 pitches.",
+   "date": "2026-05-12T23:40:00Z",
+   "game_id": "823712",
+   "matchup": "MIA 0, MIN 3",
+   "link": "https://www.mlb.com/gameday/823712",
+   "teams": [
+    "MIN",
+    "MIA"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/142.svg",
+    "https://www.mlbstatic.com/team-logos/146.svg"
+   ],
+   "players": [
+    "Bailey Ober"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:33:41+00:00"
+  },
+  {
+   "key": "mlb:823304:four-k-inning:9top",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "4 strikeouts in one inning",
+   "detail": "San Diego Padres struck out 4 St. Louis Cardinals batters in the top of inning 9 (a dropped third strike let a runner reach).",
+   "date": "2026-05-09T23:15:00Z",
+   "game_id": "823304",
+   "matchup": "STL 2, SD 4",
+   "link": "https://www.mlb.com/gameday/823304",
+   "teams": [
+    "SD",
+    "STL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/135.svg",
+    "https://www.mlbstatic.com/team-logos/138.svg"
+   ],
+   "players": [],
+   "facts": [
+    "Four-strikeout innings need a dropped third strike; MLB had seen only about 100 of them in its history."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:33:40+00:00"
+  },
+  {
+   "key": "mlb:824115:inside-the-park:4",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Inside-the-park home run: Bobby Witt Jr.",
+   "detail": "Bobby Witt Jr. hits an inside-the-park home run (5) on a line drive down the right-field line. Maikel Garcia scores.",
+   "date": "2026-05-09T23:10:00Z",
+   "game_id": "824115",
+   "matchup": "DET 1, KC 5",
+   "link": "https://www.mlb.com/gameday/824115",
+   "teams": [
+    "KC",
+    "DET"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/118.svg",
+    "https://www.mlbstatic.com/team-logos/116.svg"
+   ],
+   "players": [
+    "Bobby Witt Jr."
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:33:40+00:00"
+  },
+  {
+   "key": "mlb:823870:weird-walkoff",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Walk-off error",
+   "detail": "Javier Sanoja reaches on a throwing error by third baseman Coby Mayo. Joe Mack scores.",
+   "date": "2026-05-07T22:40:00Z",
+   "game_id": "823870",
+   "matchup": "BAL 3, MIA 4",
+   "link": "https://www.mlb.com/gameday/823870",
+   "teams": [
+    "MIA",
+    "BAL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/146.svg",
+    "https://www.mlbstatic.com/team-logos/110.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:33:39+00:00"
+  },
+  {
+   "key": "mlb:824683:weird-walkoff",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Walk-off walk",
+   "detail": "Michael Busch walks. Nico Hoerner scores. Alex Bregman to 3rd. Seiya Suzuki to 2nd.",
+   "date": "2026-05-06T23:40:00Z",
+   "game_id": "824683",
+   "matchup": "CIN 6, CHC 7",
+   "link": "https://www.mlb.com/gameday/824683",
+   "teams": [
+    "CHC",
+    "CIN"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/112.svg",
+    "https://www.mlbstatic.com/team-logos/113.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:33:38+00:00"
+  },
+  {
+   "key": "nba:401871152:big-blk:5104157",
+   "league": "nba",
+   "category": "milestone",
+   "tier": "epic",
+   "title": "Victor Wembanyama: 12 blocks",
+   "detail": "Victor Wembanyama (San Antonio Spurs) had 12 blocks in MIN 104, SA 102.",
+   "date": "2026-05-05T01:30Z",
+   "game_id": "401871152",
+   "matchup": "MIN 104, SA 102",
+   "link": "https://www.espn.com/nba/game/_/gameId/401871152",
+   "teams": [
+    "SA",
+    "MIN"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
+   ],
+   "players": [
+    "Victor Wembanyama"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-10-24T22:36:15+00:00"
+  },
+  {
+   "key": "mlb:824366:comeback",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Braves storm back from 6 runs down",
+   "detail": "Atlanta Braves trailed by 6 and won ATL 8, COL 6.",
+   "date": "2026-05-02T00:40:00Z",
+   "game_id": "824366",
+   "matchup": "ATL 8, COL 6",
+   "link": "https://www.mlb.com/gameday/824366",
+   "teams": [
+    "ATL",
+    "COL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/144.svg",
+    "https://www.mlbstatic.com/team-logos/115.svg"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in MLB history is 12 runs, done only three times."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:33:35+00:00"
+  },
+  {
+   "key": "nba:401869417:comeback",
+   "league": "nba",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Pistons storm back from 24 points down",
+   "detail": "Detroit Pistons trailed by 24 and won DET 93, ORL 79.",
+   "date": "2026-05-01T23:00Z",
+   "game_id": "401869417",
+   "matchup": "DET 93, ORL 79",
+   "link": "https://www.espn.com/nba/game/_/gameId/401869417",
+   "teams": [
+    "DET",
+    "ORL"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in NBA history is 36 points (Jazz over the Nuggets, 1996)."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:36:14+00:00"
+  },
+  {
+   "key": "nba:401869393:lopsided-margin",
+   "league": "nba",
+   "category": "wild",
+   "tier": "rare",
+   "title": "51-point rout",
+   "detail": "New York Knicks won by 51: NY 140, ATL 89.",
+   "date": "2026-04-30T23:00Z",
+   "game_id": "401869393",
+   "matchup": "NY 140, ATL 89",
+   "link": "https://www.espn.com/nba/game/_/gameId/401869393",
+   "teams": [
+    "NY",
+    "ATL"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:36:14+00:00"
+  },
+  {
+   "key": "mlb:824122:comeback",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Royals storm back from 6 runs down",
+   "detail": "Kansas City Royals trailed by 6 and won LAA 9, KC 11.",
+   "date": "2026-04-26T20:10:00Z",
+   "game_id": "824122",
+   "matchup": "LAA 9, KC 11",
+   "link": "https://www.mlb.com/gameday/824122",
+   "teams": [
+    "KC",
+    "LAA"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/118.svg",
+    "https://www.mlbstatic.com/team-logos/108.svg"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in MLB history is 12 runs, done only three times."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:33:32+00:00"
+  },
+  {
+   "key": "mlb:825094:comeback",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "D-backs storm back from 6 runs down",
+   "detail": "Arizona Diamondbacks trailed by 6 and won SD 7, AZ 12.",
+   "date": "2026-04-26T20:05:00Z",
+   "game_id": "825094",
+   "matchup": "SD 7, AZ 12",
+   "link": "https://www.mlb.com/gameday/825094",
+   "teams": [
+    "AZ",
+    "SD"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/109.svg",
+    "https://www.mlbstatic.com/team-logos/135.svg"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in MLB history is 12 runs, done only three times."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:33:31+00:00"
+  },
+  {
+   "key": "mlb:824613:four-k-inning:6bottom",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "4 strikeouts in one inning",
+   "detail": "Washington Nationals struck out 4 Chicago White Sox batters in the bottom of inning 6 (a dropped third strike let a runner reach).",
+   "date": "2026-04-25T20:10:00Z",
+   "game_id": "824613",
+   "matchup": "WSH 6, CWS 3",
+   "link": "https://www.mlb.com/gameday/824613",
+   "teams": [
+    "WSH",
+    "CWS"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/120.svg",
+    "https://www.mlbstatic.com/team-logos/145.svg"
+   ],
+   "players": [],
+   "facts": [
+    "Four-strikeout innings need a dropped third strike; MLB had seen only about 100 of them in its history."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:33:31+00:00"
+  },
+  {
+   "key": "mlb:822912:inside-the-park:26",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Inside-the-park home run: Evan Carter",
+   "detail": "Evan Carter hits an inside-the-park home run (3) on a fly ball to right-center field. Josh Jung scores.",
+   "date": "2026-04-24T00:05:00Z",
+   "game_id": "822912",
+   "matchup": "PIT 1, TEX 6",
+   "link": "https://www.mlb.com/gameday/822912",
+   "teams": [
+    "TEX",
+    "PIT"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/140.svg",
+    "https://www.mlbstatic.com/team-logos/134.svg"
+   ],
+   "players": [
+    "Evan Carter"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:33:30+00:00"
+  },
+  {
+   "key": "mlb:825099:consecutive-hr:2top",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Back-to-back-to-back home runs",
+   "detail": "Chicago White Sox hit 3 consecutive homers in inning 2.",
+   "date": "2026-04-22T01:40:00Z",
+   "game_id": "825099",
+   "matchup": "CWS 11, AZ 5",
+   "link": "https://www.mlb.com/gameday/825099",
+   "teams": [
+    "CWS",
+    "AZ"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/145.svg",
+    "https://www.mlbstatic.com/team-logos/109.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:33:29+00:00"
+  },
+  {
+   "key": "mlb:825099:inside-the-park:73",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Inside-the-park home run: Sam Antonacci",
+   "detail": "Umpire reviewed (rules check), call on the field was upheld: Sam Antonacci hits an inside-the-park home run (1) on a ground ball down the left-field line. Everson Pereira scores.",
+   "date": "2026-04-22T01:40:00Z",
+   "game_id": "825099",
+   "matchup": "CWS 11, AZ 5",
+   "link": "https://www.mlb.com/gameday/825099",
+   "teams": [
+    "CWS",
+    "AZ"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/145.svg",
+    "https://www.mlbstatic.com/team-logos/109.svg"
+   ],
+   "players": [
+    "Sam Antonacci"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:33:29+00:00"
+  },
+  {
+   "key": "mlb:824127:weird-walkoff",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Walk-off wild pitch",
+   "detail": "Wild pitch by pitcher Ryan Helsley. Maikel Garcia scores.",
+   "date": "2026-04-21T23:40:00Z",
+   "game_id": "824127",
+   "matchup": "BAL 5, KC 6",
+   "link": "https://www.mlb.com/gameday/824127",
+   "teams": [
+    "KC",
+    "BAL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/118.svg",
+    "https://www.mlbstatic.com/team-logos/110.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:33:28+00:00"
+  },
+  {
+   "key": "nba:401869396:upset",
+   "league": "nba",
+   "category": "wild",
+   "tier": "rare",
+   "title": "13.5-point underdog 76ers win outright",
+   "detail": "Philadelphia 76ers were 13.5-point underdogs and won PHI 111, BOS 97.",
+   "date": "2026-04-21T23:00Z",
+   "game_id": "401869396",
+   "matchup": "PHI 111, BOS 97",
+   "link": "https://www.espn.com/nba/game/_/gameId/401869396",
+   "teams": [
+    "PHI",
+    "BOS"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:36:14+00:00"
+  },
+  {
+   "key": "nba:401869395:heave:401869395368",
+   "league": "nba",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Jamal Murray: 51-foot buzzer-beater",
+   "detail": "Jamal Murray (Denver Nuggets) — Jamal Murray makes 51-foot driving floating jump shot (Aaron Gordon assists) (end of 2Q).",
+   "date": "2026-04-21T02:30Z",
+   "game_id": "401869395",
+   "matchup": "MIN 119, DEN 114",
+   "link": "https://www.espn.com/nba/game/_/gameId/401869395",
+   "teams": [
+    "DEN",
+    "MIN"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
+   ],
+   "players": [
+    "Jamal Murray"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:14+00:00"
+  },
+  {
+   "key": "mlb:823314:comeback",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Padres storm back from 6 runs down",
+   "detail": "San Diego Padres trailed by 6 and won SEA 6, SD 7.",
+   "date": "2026-04-16T01:40:00Z",
+   "game_id": "823314",
+   "matchup": "SEA 6, SD 7",
+   "link": "https://www.mlb.com/gameday/823314",
+   "teams": [
+    "SD",
+    "SEA"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/135.svg",
+    "https://www.mlbstatic.com/team-logos/136.svg"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in MLB history is 12 runs, done only three times."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:33:25+00:00"
+  },
+  {
+   "key": "mlb:823562:consecutive-hr:1top",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Back-to-back-to-back home runs",
+   "detail": "Los Angeles Angels hit 3 consecutive homers in inning 1.",
+   "date": "2026-04-14T23:05:00Z",
+   "game_id": "823562",
+   "matchup": "LAA 7, NYY 1",
+   "link": "https://www.mlb.com/gameday/823562",
+   "teams": [
+    "LAA",
+    "NYY"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/108.svg",
+    "https://www.mlbstatic.com/team-logos/147.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:33:25+00:00"
+  },
+  {
+   "key": "mlb:823563:weird-walkoff",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Walk-off walk",
+   "detail": "Ryan McMahon walks. José Caballero scores. Austin Wells to 3rd. Wild pitch by pitcher Jordan Romano.",
+   "date": "2026-04-13T23:05:00Z",
+   "game_id": "823563",
+   "matchup": "LAA 10, NYY 11",
+   "link": "https://www.mlb.com/gameday/823563",
+   "teams": [
+    "NYY",
+    "LAA"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/147.svg",
+    "https://www.mlbstatic.com/team-logos/108.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:33:24+00:00"
+  },
+  {
+   "key": "mlb:824856:comeback",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Orioles storm back from 6 runs down",
+   "detail": "Baltimore Orioles trailed by 6 and won AZ 7, BAL 9.",
+   "date": "2026-04-13T22:35:00Z",
+   "game_id": "824856",
+   "matchup": "AZ 7, BAL 9",
+   "link": "https://www.mlb.com/gameday/824856",
+   "teams": [
+    "BAL",
+    "AZ"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/110.svg",
+    "https://www.mlbstatic.com/team-logos/109.svg"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in MLB history is 12 runs, done only three times."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:33:24+00:00"
+  },
+  {
+   "key": "nba:401811048:big-ast:4433629",
+   "league": "nba",
+   "category": "milestone",
+   "tier": "rare",
+   "title": "Ryan Nembhard: 23 assists",
+   "detail": "Ryan Nembhard (Dallas Mavericks) had 23 assists in CHI 128, DAL 149.",
+   "date": "2026-04-13T00:30Z",
+   "game_id": "401811048",
+   "matchup": "CHI 128, DAL 149",
+   "link": "https://www.espn.com/nba/game/_/gameId/401811048",
+   "teams": [
+    "DAL",
+    "CHI"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png"
+   ],
+   "players": [
+    "Ryan Nembhard"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:36:13+00:00"
+  },
+  {
+   "key": "nba:401811041:upset",
+   "league": "nba",
+   "category": "wild",
+   "tier": "rare",
+   "title": "12.5-point underdog Celtics win outright",
+   "detail": "Boston Celtics were 12.5-point underdogs and won ORL 108, BOS 113.",
+   "date": "2026-04-12T22:00Z",
+   "game_id": "401811041",
+   "matchup": "ORL 108, BOS 113",
+   "link": "https://www.espn.com/nba/game/_/gameId/401811041",
+   "teams": [
+    "BOS",
+    "ORL"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:36:13+00:00"
+  },
+  {
+   "key": "nba:401811040:lopsided-low",
+   "league": "nba",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Suns held to 73",
+   "detail": "Only 73 points for Phoenix Suns: PHX 73, LAL 101.",
+   "date": "2026-04-11T02:30Z",
+   "game_id": "401811040",
+   "matchup": "PHX 73, LAL 101",
+   "link": "https://www.espn.com/nba/game/_/gameId/401811040",
+   "teams": [
+    "PHX",
+    "LAL"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:36:13+00:00"
+  },
+  {
+   "key": "mlb:823076:steal-of-home:32-2",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Steal of home!",
+   "detail": "Trevor Story steals (1) home. Marcelo Mayer steals (1) 2nd base.",
+   "date": "2026-04-11T00:15:00Z",
+   "game_id": "823076",
+   "matchup": "BOS 2, STL 3",
+   "link": "https://www.mlb.com/gameday/823076",
+   "teams": [
+    "BOS",
+    "STL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/111.svg",
+    "https://www.mlbstatic.com/team-logos/138.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:33:22+00:00"
+  },
+  {
+   "key": "mlb:823319:walkoff-slam",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Walk-off grand slam: Xander Bogaerts",
+   "detail": "Xander Bogaerts hits a grand slam (2) to left field. Jake Cronenworth scores. Jackson Merrill scores. Manny Machado scores.",
+   "date": "2026-04-10T01:40:00Z",
+   "game_id": "823319",
+   "matchup": "COL 3, SD 7",
+   "link": "https://www.mlb.com/gameday/823319",
+   "teams": [
+    "SD",
+    "COL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/135.svg",
+    "https://www.mlbstatic.com/team-logos/115.svg"
+   ],
+   "players": [
+    "Xander Bogaerts"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:33:22+00:00"
+  },
+  {
+   "key": "nba:401810974:heave:401810974320",
+   "league": "nba",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Dylan Harper: 41-foot buzzer-beater",
+   "detail": "Dylan Harper (San Antonio Spurs) — Dylan Harper makes 41-foot three point jumper (Julian Champagnie assists) (end of 2Q).",
+   "date": "2026-04-03T02:30Z",
+   "game_id": "401810974",
+   "matchup": "SA 118, LAC 99",
+   "link": "https://www.espn.com/nba/game/_/gameId/401810974",
+   "teams": [
+    "SA",
+    "LAC"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png"
+   ],
+   "players": [
+    "Dylan Harper"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:11+00:00"
+  },
+  {
+   "key": "nba:401810967:heave:401810967155",
+   "league": "nba",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Jamal Murray: 49-foot buzzer-beater",
+   "detail": "Jamal Murray (Denver Nuggets) — Jamal Murray makes 49-foot three pointer (end of 1Q).",
+   "date": "2026-04-02T01:00Z",
+   "game_id": "401810967",
+   "matchup": "DEN 130, UTAH 117",
+   "link": "https://www.espn.com/nba/game/_/gameId/401810967",
+   "teams": [
+    "DEN",
+    "UTAH"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png"
+   ],
+   "players": [
+    "Jamal Murray"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:11+00:00"
+  },
+  {
+   "key": "nba:401810963:upset",
+   "league": "nba",
+   "category": "wild",
+   "tier": "rare",
+   "title": "12.5-point underdog Kings win outright",
+   "detail": "Sacramento Kings were 12.5-point underdogs and won SAC 123, TOR 115.",
+   "date": "2026-04-02T00:00Z",
+   "game_id": "401810963",
+   "matchup": "SAC 123, TOR 115",
+   "link": "https://www.espn.com/nba/game/_/gameId/401810963",
+   "teams": [
+    "SAC",
+    "TOR"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:36:11+00:00"
+  },
+  {
+   "key": "nba:401810961:quarter:2-1",
+   "league": "nba",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Celtics: 53 points in the 1st quarter",
+   "detail": "Boston Celtics scored 53 in a single quarter of BOS 147, MIA 129.",
+   "date": "2026-04-01T23:30Z",
+   "game_id": "401810961",
+   "matchup": "BOS 147, MIA 129",
+   "link": "https://www.espn.com/nba/game/_/gameId/401810961",
+   "teams": [
+    "BOS",
+    "MIA"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:11+00:00"
+  },
+  {
+   "key": "mlb:823889:maddux:home",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "A Maddux: Sandy Alcantara needs only 93 pitches",
+   "detail": "Sandy Alcantara threw a complete-game shutout on 93 pitches.",
+   "date": "2026-04-01T17:10:00Z",
+   "game_id": "823889",
+   "matchup": "CWS 0, MIA 10",
+   "link": "https://www.mlb.com/gameday/823889",
+   "teams": [
+    "MIA",
+    "CWS"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/146.svg",
+    "https://www.mlbstatic.com/team-logos/145.svg"
+   ],
+   "players": [
+    "Sandy Alcantara"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:33:18+00:00"
+  },
+  {
+   "key": "mlb:825108:immaculate-inning:5top",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Immaculate inning: Michael Soroka",
+   "detail": "Michael Soroka (Arizona Diamondbacks) struck out the side on 9 pitches in the top of inning 5.",
+   "date": "2026-03-31T02:10:00Z",
+   "game_id": "825108",
+   "matchup": "DET 6, AZ 9",
+   "link": "https://www.mlb.com/gameday/825108",
+   "teams": [
+    "AZ",
+    "DET"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/109.svg",
+    "https://www.mlbstatic.com/team-logos/116.svg"
+   ],
+   "players": [
+    "Michael Soroka"
+   ],
+   "facts": [
+    "MLB counted 122 immaculate innings in its entire history entering the 2026 season."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:33:17+00:00"
+  },
+  {
+   "key": "nba:401810941:lopsided-margin",
+   "league": "nba",
+   "category": "wild",
+   "tier": "rare",
+   "title": "52-point rout",
+   "detail": "Toronto Raptors won by 52: ORL 87, TOR 139.",
+   "date": "2026-03-29T22:00Z",
+   "game_id": "401810941",
+   "matchup": "ORL 87, TOR 139",
+   "link": "https://www.espn.com/nba/game/_/gameId/401810941",
+   "teams": [
+    "ORL",
+    "TOR"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:36:11+00:00"
+  },
+  {
+   "key": "mlb:824945:walkoff-slam",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Walk-off grand slam: Dominic Smith",
+   "detail": "Dominic Smith hits a grand slam (1) to right center field. Eli White scores. Ozzie Albies scores. Michael Harris II scores.",
+   "date": "2026-03-28T23:15:00Z",
+   "game_id": "824945",
+   "matchup": "KC 2, ATL 6",
+   "link": "https://www.mlb.com/gameday/824945",
+   "teams": [
+    "ATL",
+    "KC"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/144.svg",
+    "https://www.mlbstatic.com/team-logos/118.svg"
+   ],
+   "players": [
+    "Dominic Smith"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:33:15+00:00"
+  },
+  {
+   "key": "mlb:824213:comeback",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Astros storm back from 6 runs down",
+   "detail": "Houston Astros trailed by 6 and won LAA 9, HOU 11.",
+   "date": "2026-03-28T23:10:00Z",
+   "game_id": "824213",
+   "matchup": "LAA 9, HOU 11",
+   "link": "https://www.mlb.com/gameday/824213",
+   "teams": [
+    "HOU",
+    "LAA"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/117.svg",
+    "https://www.mlbstatic.com/team-logos/108.svg"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in MLB history is 12 runs, done only three times."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:33:15+00:00"
+  },
+  {
+   "key": "nba:401810924:heave:401810924163",
+   "league": "nba",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "GG Jackson: 49-foot buzzer-beater",
+   "detail": "GG Jackson (Memphis Grizzlies) — GG Jackson makes 49-foot driving floating jump shot (Taj Gibson assists) (end of 1Q).",
+   "date": "2026-03-28T00:00Z",
+   "game_id": "401810924",
+   "matchup": "HOU 119, MEM 109",
+   "link": "https://www.espn.com/nba/game/_/gameId/401810924",
+   "teams": [
+    "MEM",
+    "HOU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png"
+   ],
+   "players": [
+    "GG Jackson"
+   ],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:10+00:00"
+  },
+  {
+   "key": "mlb:822839:four-k-inning:9top",
+   "league": "mlb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "4 strikeouts in one inning",
+   "detail": "Toronto Blue Jays struck out 4 Athletics batters in the top of inning 9 (a dropped third strike let a runner reach).",
+   "date": "2026-03-27T23:07:00Z",
+   "game_id": "822839",
+   "matchup": "ATH 2, TOR 3",
+   "link": "https://www.mlb.com/gameday/822839",
+   "teams": [
+    "TOR",
+    "ATH"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/141.svg",
+    "https://www.mlbstatic.com/team-logos/133.svg"
+   ],
+   "players": [],
+   "facts": [
+    "Four-strikeout innings need a dropped third strike; MLB had seen only about 100 of them in its history."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-10-24T22:33:15+00:00"
+  },
+  {
+   "key": "nba:401810921:comeback",
+   "league": "nba",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Clippers storm back from 24 points down",
+   "detail": "LA Clippers trailed by 24 and won LAC 114, IND 113.",
+   "date": "2026-03-27T23:00Z",
+   "game_id": "401810921",
+   "matchup": "LAC 114, IND 113",
+   "link": "https://www.espn.com/nba/game/_/gameId/401810921",
+   "teams": [
+    "LAC",
+    "IND"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in NBA history is 36 points (Jazz over the Nuggets, 1996)."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:36:10+00:00"
+  },
+  {
+   "key": "mlb:823081:comeback",
+   "league": "mlb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Cardinals storm back from 6 runs down",
+   "detail": "St. Louis Cardinals trailed by 6 and won TB 7, STL 9.",
+   "date": "2026-03-26T20:15:00Z",
+   "game_id": "823081",
+   "matchup": "TB 7, STL 9",
+   "link": "https://www.mlb.com/gameday/823081",
+   "teams": [
+    "STL",
+    "TB"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/138.svg",
+    "https://www.mlbstatic.com/team-logos/139.svg"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in MLB history is 12 runs, done only three times."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-10-24T22:33:14+00:00"
+  },
+  {
+   "key": "nba:401810908:quarter:20-3",
+   "league": "nba",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "76ers: 51 points in the 3rd quarter",
+   "detail": "Philadelphia 76ers scored 51 in a single quarter of CHI 137, PHI 157.",
+   "date": "2026-03-25T23:00Z",
+   "game_id": "401810908",
+   "matchup": "CHI 137, PHI 157",
+   "link": "https://www.espn.com/nba/game/_/gameId/401810908",
+   "teams": [
+    "PHI",
+    "CHI"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:10+00:00"
+  },
+  {
+   "key": "nba:401810908:quarter:4-4",
+   "league": "nba",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Bulls: 53 points in the 4th quarter",
+   "detail": "Chicago Bulls scored 53 in a single quarter of CHI 137, PHI 157.",
+   "date": "2026-03-25T23:00Z",
+   "game_id": "401810908",
+   "matchup": "CHI 137, PHI 157",
+   "link": "https://www.espn.com/nba/game/_/gameId/401810908",
+   "teams": [
+    "CHI",
+    "PHI"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-10-24T22:36:10+00:00"
+  }
+ ]
+}
