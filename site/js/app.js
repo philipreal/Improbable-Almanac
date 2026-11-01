@@ -1,5 +1,5 @@
 // The Improbable Almanac — front end. Plain ES modules, no build step.
-import { initScorigami } from "./scorigami.js?v=4";
+import { initScorigami } from "./scorigami.js?v=5";
 
 const TIER = { legendary: 4, epic: 3, rare: 2, notable: 1 };
 const TIER_LABEL = { legendary: "Legendary", epic: "Epic", rare: "Rare", notable: "Notable" };
@@ -111,7 +111,7 @@ function renderLive(live) {
   const alerts = live?.alerts || [];
   if (!alerts.length || Date.now() - new Date(live.updated) > 45 * 60000) { box.hidden = true; return; }
   // Most dramatic first.
-  const order = { "no-hitter": 0, "scorigami-watch": 1, "favorite-live": 2 };
+  const order = { "no-hitter": 0, "scorigami-watch": 1, "streak-watch": 2, "favorite-live": 3 };
   alerts.sort((a, b) => (order[a.kind] ?? 9) - (order[b.kind] ?? 9));
   box.innerHTML = alerts.map((a) => `
     <a class="live-item ${esc(a.kind)}" href="${esc(a.link)}" target="_blank" rel="noopener">

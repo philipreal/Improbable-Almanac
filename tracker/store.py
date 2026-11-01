@@ -51,6 +51,7 @@ class Store:
         for k in ("processed", "favorites", "milestones"):
             self.state.setdefault(k, {})
         self.new_keys: list[str] = []
+        self._streaks = None
         overrides = load_overrides()
         self.hidden = set(overrides.get("hide", []) or [])
 
@@ -76,9 +77,13 @@ class Store:
         existing = self.events.get(ev.key)
         d = ev.to_dict()
         if existing:
-            # Keep any blurb we already paid for.
-            d["blurb"] = existing.get("blurb") or d["blurb"]
             d["found"] = existing.get("found", now_iso())
+            if existing["title"] == d["title"]:
+                # Keep any blurb we already paid for.
+                d["blurb"] = existing.get("blurb") or d["blurb"]
+            elif ev.key not in self.new_keys:
+                # A growing streak changed its headline: queue a fresh note.
+                self.new_keys.append(ev.key)
             self.events[ev.key] = d
             return False
         d["found"] = now_iso()
@@ -94,8 +99,17 @@ class Store:
         return sorted((e for k, e in self.events.items() if k not in self.hidden),
                       key=lambda e: (e["date"], e["score"]), reverse=True)
 
+    def streaks(self):
+        """The cross-game streak tracker, sharing this store's state."""
+        if self._streaks is None:
+            from .streaks import Tracker
+            self._streaks = Tracker(self)
+        return self._streaks
+
     def save(self):
         """Write only what changed, so the scheduled job commits nothing on quiet runs."""
+        if self._streaks is not None:
+            self._streaks.save()
         events = self.sorted_events()
         dumped = json.dumps(events, sort_keys=True)
         if dumped != self._saved_events:

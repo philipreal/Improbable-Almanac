@@ -50,6 +50,10 @@ python -m http.server 8765 --directory site  # view the site
 - `tracker/detectors/` — one function per oddity, registered with `@detector(...)`. Each returns
   `Event`s with a tier (Legendary / Epic / Rare) and a category (Never before / Oddity / Milestone /
   Wild game). "Never before" and "Oddity" rank a notch higher, by request.
+- `tracker/streaks.py` — streaks that span games: MLB hitting, on-base and scoreless-innings
+  streaks (scoreless innings follow MLB's official inning-by-inning rule), the postseason relief
+  record, and MLB/NBA team win and losing streaks. `python -m tracker rebuild-streaks` recounts
+  them from scratch, including the last three postseasons.
 - `tracker/rarity/` — scorigami tables (every final score since 1920 for the NFL, 1873 for college,
   1901 for MLB) and curated facts in `seed/rarity_facts.yaml`. Claude may only use these facts and
   the detector's own numbers when writing notes, so it never invents history.

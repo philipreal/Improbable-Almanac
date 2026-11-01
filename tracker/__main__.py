@@ -5,6 +5,7 @@
     python -m tracker milestones                # MLB career milestones (daily)
     python -m tracker backfill --since 2026-03-25 [--until 2026-10-24] [--leagues mlb nfl] [--blurbs]
     python -m tracker blurbs                    # write notes for any rare+ events missing one
+    python -m tracker rebuild-streaks           # recount cross-game streaks from scratch
 """
 import argparse
 import logging
@@ -22,6 +23,7 @@ def main():
     n.add_argument("--dry-run", action="store_true")
     sub.add_parser("milestones")
     sub.add_parser("blurbs")
+    sub.add_parser("rebuild-streaks")
     b = sub.add_parser("backfill")
     b.add_argument("--since", required=True, type=date.fromisoformat)
     b.add_argument("--until", type=date.fromisoformat, default=date.today())
@@ -38,6 +40,8 @@ def main():
         pipeline.daily_milestones()
     elif args.cmd == "blurbs":
         pipeline.fill_missing_blurbs()
+    elif args.cmd == "rebuild-streaks":
+        pipeline.rebuild_streaks()
     elif args.cmd == "backfill":
         pipeline.backfill(args.since, args.until, leagues=args.leagues, blurbs=args.blurbs, force=args.force)
 

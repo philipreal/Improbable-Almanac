@@ -62,6 +62,7 @@ def process_game(game: Game, store: Store, ctx: Context) -> list:
     favs = favorite_side(game, ctx)
     for ev in events:
         store.add(ev)
+    store.streaks().update(game)
     for team in favs:
         s = game_summary(game, team)
         s["events"] = [e.key for e in events]
@@ -188,7 +189,12 @@ def poll():
         except Exception as e:
             log.exception("poll failed for %s", league)
             sources[league] = {"ok": False, "checked": now_iso(), "error": str(e)[:200]}
-    write_json("live.json", {"updated": now_iso(), "alerts": live_alerts(all_current, ctx)})
+    playing: dict[str, set[str]] = {}
+    for g in all_current:
+        if g.state in ("pre", "in") and g.date[:10] <= now_iso()[:10]:
+            playing.setdefault(g.league, set()).update({g.home.abbr, g.away.abbr})
+    alerts = live_alerts(all_current, ctx) + store.streaks().watch(playing)
+    write_json("live.json", {"updated": now_iso(), "alerts": alerts})
     publish_teams(store, cfg, next_games(all_current, ctx), all_current, ctx)
     try:
         write_blurbs(store)
@@ -305,3 +311,30 @@ def fill_missing_blurbs():
                if not e.get("blurb") and TIERS.get(e["tier"], 0) >= TIERS["rare"]]
     blurbs.fill(pending)
     store.save()
+
+
+def rebuild_streaks(today: date | None = None):
+    """Recount every streak from scratch: the last three postseasons (so postseason streaks that
+    started earlier are right), then this MLB season and this NBA season, in date order."""
+    today = today or date.today()
+    store = Store()
+    store.state["streaks"] = {}
+    for k in [k for k in store.events if ":streak:" in k]:
+        del store.events[k]
+    tracker = store.streaks()
+    games: list[Game] = []
+    for year in range(today.year - 3, today.year):
+        games += [g for g in mlb_statsapi.fetch_schedule(f"{year}-09-25", f"{year}-11-15")
+                  if g.final and g.season_type == "postseason"]
+    games += _season_games("mlb", date(today.year, 3, 1), today)
+    games += _season_games("nba", date(today.year, 10, 1), today)
+    games.sort(key=lambda g: g.date)
+    log.info("rebuilding streaks from %d games", len(games))
+    for i, g in enumerate(games):
+        if g.league == "mlb":
+            loader.load_detail(g, cache=True)
+        tracker.update(g)
+        if i % 500 == 0:
+            log.info("  %d/%d", i, len(games))
+    store.save()
+    return tracker
