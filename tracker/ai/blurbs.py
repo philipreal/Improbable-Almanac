@@ -5,6 +5,8 @@ import os
 import anthropic
 from pydantic import BaseModel
 
+from . import annotate, have_key
+
 log = logging.getLogger(__name__)
 
 MODEL = os.environ.get("ALMANAC_BLURB_MODEL", "claude-sonnet-5-5")
@@ -38,8 +40,7 @@ def _event_text(e: dict) -> str:
 
 def fill(events: list[dict]):
     """Mutates each event dict in place, setting 'blurb'."""
-    if not os.environ.get("ANTHROPIC_API_KEY"):
-        log.info("ANTHROPIC_API_KEY not set; skipping %d blurbs", len(events))
+    if not have_key("writing notes"):
         return
     client = anthropic.Anthropic()
     for i in range(0, len(events), BATCH):
@@ -53,8 +54,8 @@ def fill(events: list[dict]):
                 messages=[{"role": "user", "content": prompt}],
                 output_format=Notes,
             )
-        except anthropic.APIError:
-            log.exception("blurb request failed")
+        except anthropic.APIError as e:
+            annotate("error", f"Claude blurb request failed: {e}")
             continue
         if resp.stop_reason == "refusal" or not resp.parsed_output:
             continue

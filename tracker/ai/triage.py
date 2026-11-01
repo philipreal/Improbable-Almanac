@@ -7,6 +7,7 @@ import anthropic
 from pydantic import BaseModel
 
 from ..models import Event
+from . import annotate, have_key
 
 log = logging.getLogger(__name__)
 
@@ -46,8 +47,7 @@ class Verdicts(BaseModel):
 
 
 def triage(items: list[dict], covered: list[dict]) -> list[Event]:
-    if not os.environ.get("ANTHROPIC_API_KEY"):
-        log.warning("ANTHROPIC_API_KEY not set; skipping news triage")
+    if not have_key("news scouting"):
         return []
     client = anthropic.Anthropic()
     covered_text = "\n".join(f"- {e['key']}: {e['title']}" for e in covered[:80]) or "(none)"
@@ -65,8 +65,8 @@ def triage(items: list[dict], covered: list[dict]) -> list[Event]:
                            "Return a verdict for every candidate id."}],
                 output_format=Verdicts,
             )
-        except anthropic.APIError:
-            log.exception("triage request failed")
+        except anthropic.APIError as e:
+            annotate("error", f"Claude triage request failed: {e}")
             continue
         if resp.stop_reason == "refusal" or not resp.parsed_output:
             continue
