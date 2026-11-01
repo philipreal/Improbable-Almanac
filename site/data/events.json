@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T22:38:48+00:00",
+ "updated": "2026-11-01T23:10:27+00:00",
  "events": [
   {
    "key": "nfl:401873031:scorigami",
@@ -280,6 +280,38 @@
    "found": "2026-11-01T22:19:16+00:00"
   },
   {
+   "key": "mlb:streak:post-relief:641329:849835",
+   "league": "mlb",
+   "category": "milestone",
+   "tier": "rare",
+   "title": "Bryan Baker's postseason scoreless streak in relief reaches 10 innings",
+   "detail": "Bryan Baker (TB): 10 innings since 2026-10-03, most recently in MIL 4, TB 1.",
+   "date": "2026-10-29T00:00:00Z",
+   "game_id": "",
+   "matchup": "MIL 4, TB 1",
+   "link": "https://www.mlb.com/gameday/849799",
+   "teams": [
+    "TB"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/139.svg"
+   ],
+   "players": [
+    "Bryan Baker"
+   ],
+   "facts": [
+    "Andrew Miller's 16 straight scoreless postseason innings in relief (2016) stood as the record until 2026.",
+    "6 more innings would tie Andrew Miller, 2016."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-01T23:10:27+00:00"
+  },
+  {
    "key": "nba:401909881:heave:401909881340",
    "league": "nba",
    "category": "oddity",
@@ -371,6 +403,69 @@
    "live": false,
    "score": 2.6,
    "found": "2026-11-01T22:19:37+00:00"
+  },
+  {
+   "key": "mlb:streak:post-relief:676879:849830",
+   "league": "mlb",
+   "category": "never-before",
+   "tier": "legendary",
+   "title": "Record! Aaron Ashby: 18 innings, the longest postseason scoreless streak in relief ever",
+   "detail": "Aaron Ashby (MIL): 18 innings since 2026-10-04, most recently in MIL 3, TB 4.",
+   "date": "2026-10-28T00:00:00Z",
+   "game_id": "",
+   "matchup": "MIL 3, TB 4",
+   "link": "https://www.mlb.com/gameday/849803",
+   "teams": [
+    "MIL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/158.svg"
+   ],
+   "players": [
+    "Aaron Ashby"
+   ],
+   "facts": [
+    "Andrew Miller's 16 straight scoreless postseason innings in relief (2016) stood as the record until 2026."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 5.0,
+   "found": "2026-11-01T23:10:27+00:00"
+  },
+  {
+   "key": "mlb:streak:post-relief:669084:748573",
+   "league": "mlb",
+   "category": "milestone",
+   "tier": "rare",
+   "title": "DL Hall's postseason scoreless streak in relief reaches 11⅓ innings",
+   "detail": "DL Hall (MIL): 11⅓ innings since 2023-10-07, most recently in MIL 3, TB 4.",
+   "date": "2026-10-28T00:00:00Z",
+   "game_id": "",
+   "matchup": "MIL 3, TB 4",
+   "link": "https://www.mlb.com/gameday/849803",
+   "teams": [
+    "MIL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/158.svg"
+   ],
+   "players": [
+    "DL Hall"
+   ],
+   "facts": [
+    "Andrew Miller's 16 straight scoreless postseason innings in relief (2016) stood as the record until 2026.",
+    "4⅔ more innings would tie Andrew Miller, 2016."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-01T23:10:27+00:00"
   },
   {
    "key": "cfb:401860906:long-play:40186090644",
@@ -801,6 +896,70 @@
    "live": false,
    "score": 2.0,
    "found": "2026-10-24T22:36:26+00:00"
+  },
+  {
+   "key": "mlb:streak:post-relief:623465:748556",
+   "league": "mlb",
+   "category": "milestone",
+   "tier": "rare",
+   "title": "Evan Phillips's postseason scoreless streak in relief reaches 12 innings",
+   "detail": "Evan Phillips (LAD): 12 innings since 2023-10-10, most recently in MIL 6, LAD 4.",
+   "date": "2026-10-16T00:00:00Z",
+   "game_id": "",
+   "matchup": "MIL 6, LAD 4",
+   "link": "https://www.mlb.com/gameday/849810",
+   "teams": [
+    "LAD"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/119.svg"
+   ],
+   "players": [
+    "Evan Phillips"
+   ],
+   "facts": [
+    "Andrew Miller's 16 straight scoreless postseason innings in relief (2016) stood as the record until 2026.",
+    "4 more innings would tie Andrew Miller, 2016."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-01T23:10:27+00:00"
+  },
+  {
+   "key": "mlb:streak:post-relief:621242:775313",
+   "league": "mlb",
+   "category": "milestone",
+   "tier": "rare",
+   "title": "Edwin Díaz's postseason scoreless streak in relief ends at 11⅓ innings",
+   "detail": "Edwin Díaz (LAD): 11⅓ innings since 2024-10-09. It ended in the next game.",
+   "date": "2026-10-16T00:00:00Z",
+   "game_id": "",
+   "matchup": "MIL 6, LAD 4",
+   "link": "https://www.mlb.com/gameday/849810",
+   "teams": [
+    "LAD"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/119.svg"
+   ],
+   "players": [
+    "Edwin Díaz"
+   ],
+   "facts": [
+    "Andrew Miller's 16 straight scoreless postseason innings in relief (2016) stood as the record until 2026.",
+    "4⅔ more innings would tie Andrew Miller, 2016."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-01T23:10:27+00:00"
   },
   {
    "key": "cfb:401871067:throw-and-catch-td:5289314",
@@ -2976,6 +3135,33 @@
    "found": "2026-10-24T22:34:34+00:00"
   },
   {
+   "key": "mlb:streak:team-win:BOS:824013",
+   "league": "mlb",
+   "category": "milestone",
+   "tier": "rare",
+   "title": "Boston Red Sox's winning streak ends at 15 wins",
+   "detail": "Boston Red Sox (BOS): 15 wins since 2026-07-04. It ended in the next game.",
+   "date": "2026-07-22T17:35:00Z",
+   "game_id": "",
+   "matchup": "BAL 3, BOS 6",
+   "link": "https://www.mlb.com/gameday/824735",
+   "teams": [
+    "BOS"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/111.svg"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-01T23:08:25+00:00"
+  },
+  {
    "key": "mlb:824165:triple-play:65",
    "league": "mlb",
    "category": "oddity",
@@ -4006,6 +4192,38 @@
    "found": "2026-10-24T22:33:59+00:00"
   },
   {
+   "key": "mlb:streak:scoreless:650911:823472",
+   "league": "mlb",
+   "category": "milestone",
+   "tier": "legendary",
+   "title": "Cristopher Sánchez's scoreless-innings streak ends at 50⅔ innings",
+   "detail": "Cristopher Sánchez (PHI): 50⅔ innings since 2026-04-30. It ended in the next game.",
+   "date": "2026-06-03T22:40:00Z",
+   "game_id": "",
+   "matchup": "SD 2, PHI 3",
+   "link": "https://www.mlb.com/gameday/823456",
+   "teams": [
+    "PHI"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/143.svg"
+   ],
+   "players": [
+    "Cristopher Sánchez"
+   ],
+   "facts": [
+    "Orel Hershiser's 59 straight scoreless innings (1988) is the MLB record.",
+    "8⅓ more innings would tie Orel Hershiser, 1988."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 4.0,
+   "found": "2026-11-01T23:07:34+00:00"
+  },
+  {
    "key": "mlb:822728:consecutive-hr:5top",
    "league": "mlb",
    "category": "oddity",
@@ -4093,6 +4311,38 @@
    "found": "2026-10-24T22:33:55+00:00"
   },
   {
+   "key": "mlb:streak:onbase:701762:825026",
+   "league": "mlb",
+   "category": "milestone",
+   "tier": "rare",
+   "title": "Nick Kurtz's on-base streak ends at 48 games",
+   "detail": "Nick Kurtz (ATH): 48 games since 2026-04-04. It ended in the next game.",
+   "date": "2026-05-26T01:40:00Z",
+   "game_id": "",
+   "matchup": "SEA 9, ATH 2",
+   "link": "https://www.mlb.com/gameday/825005",
+   "teams": [
+    "ATH"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/133.svg"
+   ],
+   "players": [
+    "Nick Kurtz"
+   ],
+   "facts": [
+    "Ted Williams reached base in 84 straight games in 1949, the MLB record.",
+    "36 more games would tie Ted Williams, 1949."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-01T23:07:35+00:00"
+  },
+  {
    "key": "mlb:822899:no-hitter:away",
    "league": "mlb",
    "category": "oddity",
@@ -4124,6 +4374,38 @@
    "live": false,
    "score": 3.6,
    "found": "2026-10-24T22:33:51+00:00"
+  },
+  {
+   "key": "mlb:streak:scoreless:694819:822744",
+   "league": "mlb",
+   "category": "milestone",
+   "tier": "rare",
+   "title": "Jacob Misiorowski's scoreless-innings streak ends at 29⅓ innings",
+   "detail": "Jacob Misiorowski (MIL): 29⅓ innings since 2026-05-01. It ended in the next game.",
+   "date": "2026-05-25T18:10:00Z",
+   "game_id": "",
+   "matchup": "STL 1, MIL 5",
+   "link": "https://www.mlb.com/gameday/823784",
+   "teams": [
+    "MIL"
+   ],
+   "team_logos": [
+    "https://www.mlbstatic.com/team-logos/158.svg"
+   ],
+   "players": [
+    "Jacob Misiorowski"
+   ],
+   "facts": [
+    "Orel Hershiser's 59 straight scoreless innings (1988) is the MLB record.",
+    "29⅔ more innings would tie Orel Hershiser, 1988."
+   ],
+   "blurb": "",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-01T23:07:39+00:00"
   },
   {
    "key": "mlb:823861:walkoff-slam",
