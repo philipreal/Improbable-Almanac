@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-02T05:53:01+00:00",
+ "updated": "2026-11-02T15:38:07+00:00",
  "events": [
+  {
+   "key": "news:517b963c148efe49",
+   "league": "nfl",
+   "category": "never-before",
+   "tier": "epic",
+   "title": "Burrow first to achieve feat since 1951",
+   "detail": "Joe Burrow became the first NFL player to accomplish a feat not seen in 75 years.",
+   "date": "2026-11-02T15:29:54+00:00",
+   "game_id": "",
+   "matchup": "",
+   "link": "https://sports.yahoo.com/articles/bengals-joe-burrow-first-accomplish-152954992.html",
+   "teams": [],
+   "team_logos": [],
+   "players": [],
+   "facts": [],
+   "blurb": "Joe Burrow became the first NFL player to accomplish a feat not seen in 75 years.",
+   "source": "news",
+   "source_name": "Yahoo Sports",
+   "sport": "football",
+   "live": false,
+   "score": 4.0,
+   "found": "2026-11-02T15:38:07+00:00"
+  },
   {
    "key": "news:b03e1a7da6d7d9d5",
    "league": "nfl",
