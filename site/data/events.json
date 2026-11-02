@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T15:38:07+00:00",
+ "updated": "2026-11-02T20:25:46+00:00",
  "events": [
   {
    "key": "news:517b963c148efe49",
@@ -533,7 +533,7 @@
     "Andrew Miller's 16 straight scoreless postseason innings in relief (2016) stood as the record until 2026.",
     "6 more innings would tie Andrew Miller, 2016."
    ],
-   "blurb": "",
+   "blurb": "Bryan Baker has strung together 10 straight scoreless postseason innings in relief, and he's still rolling. Andrew Miller's 2016 mark of 16 would need 6 more zeroes to be matched.",
    "source": "detector",
    "source_name": "",
    "sport": "",
@@ -657,7 +657,7 @@
    "facts": [
     "Andrew Miller's 16 straight scoreless postseason innings in relief (2016) stood as the record until 2026."
    ],
-   "blurb": "",
+   "blurb": "Aaron Ashby has rewritten the relief record book: 18 straight scoreless postseason innings, edging past Andrew Miller's 16 from 2016. That mark stood until 2026, and now it belongs to Ashby.",
    "source": "detector",
    "source_name": "",
    "sport": "",
@@ -689,7 +689,7 @@
     "Andrew Miller's 16 straight scoreless postseason innings in relief (2016) stood as the record until 2026.",
     "4⅔ more innings would tie Andrew Miller, 2016."
    ],
-   "blurb": "",
+   "blurb": "DL Hall has quietly stacked up 11⅓ scoreless postseason innings in relief, a run dating back to 2023. He sits 4⅔ innings shy of tying Andrew Miller's 2016 mark of 16.",
    "source": "detector",
    "source_name": "",
    "sport": "",
@@ -1151,7 +1151,7 @@
     "Andrew Miller's 16 straight scoreless postseason innings in relief (2016) stood as the record until 2026.",
     "4 more innings would tie Andrew Miller, 2016."
    ],
-   "blurb": "",
+   "blurb": "Evan Phillips has piled up 12 scoreless postseason innings in relief, a run reaching back to 2023. Four more would tie Andrew Miller's 2016 mark of 16.",
    "source": "detector",
    "source_name": "",
    "sport": "",
@@ -1183,7 +1183,7 @@
     "Andrew Miller's 16 straight scoreless postseason innings in relief (2016) stood as the record until 2026.",
     "4⅔ more innings would tie Andrew Miller, 2016."
    ],
-   "blurb": "",
+   "blurb": "Edwin Díaz's run of 11⅓ scoreless postseason relief innings, begun in 2024, finally came to an end. He fell 4⅔ innings short of tying Andrew Miller's 16 from 2016.",
    "source": "detector",
    "source_name": "",
    "sport": "",
@@ -1615,7 +1615,7 @@
     "Colin Simmons"
    ],
    "facts": [],
-   "blurb": "",
+   "blurb": "Colin Simmons turned the Tennessee backfield into his personal playground with 5.5 sacks in Texas's 20-17 win. Half a sack is a delightfully weird thing to see in a stat line, and he still got five full ones.",
    "source": "detector",
    "source_name": "",
    "sport": "",
@@ -2355,7 +2355,7 @@
    "facts": [
     "The only other 70–20 game in College Football history: UL 70, ULM 20 on 2020-11-28."
    ],
-   "blurb": "",
+   "blurb": "Georgia's 70-20 win over WKU matched a final score that had happened only once before: UL 70, ULM 20 on 2020-11-28. Scorigami fans, rejoice at this rare repeat.",
    "source": "detector",
    "source_name": "",
    "sport": "",
@@ -3383,7 +3383,7 @@
    ],
    "players": [],
    "facts": [],
-   "blurb": "",
+   "blurb": "The Red Sox's winning streak stopped at 15 games after it began on July 4. That's a long stretch of victories in a sport where even the best teams lose regularly.",
    "source": "detector",
    "source_name": "",
    "sport": "",
@@ -4445,7 +4445,7 @@
     "Orel Hershiser's 59 straight scoreless innings (1988) is the MLB record.",
     "8⅓ more innings would tie Orel Hershiser, 1988."
    ],
-   "blurb": "",
+   "blurb": "Cristopher Sánchez's scoreless run ended at 50⅔ innings, after starting on April 30. Orel Hershiser's 1988 record of 59 remained 8⅓ innings out of reach.",
    "source": "detector",
    "source_name": "",
    "sport": "",
@@ -4564,7 +4564,7 @@
     "Ted Williams reached base in 84 straight games in 1949, the MLB record.",
     "36 more games would tie Ted Williams, 1949."
    ],
-   "blurb": "",
+   "blurb": "Nick Kurtz reached base in 48 straight games before the streak finally ended. Ted Williams's 84-game record from 1949 would have required 36 more.",
    "source": "detector",
    "source_name": "",
    "sport": "",
@@ -4629,7 +4629,7 @@
     "Orel Hershiser's 59 straight scoreless innings (1988) is the MLB record.",
     "29⅔ more innings would tie Orel Hershiser, 1988."
    ],
-   "blurb": "",
+   "blurb": "Jacob Misiorowski's scoreless streak ended at 29⅓ innings, a lengthy run beginning May 1. Orel Hershiser's 1988 record of 59 would have needed 29⅔ more.",
    "source": "detector",
    "source_name": "",
    "sport": "",
