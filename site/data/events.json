@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-02T20:25:46+00:00",
+ "updated": "2026-11-03T00:54:11+00:00",
  "events": [
+  {
+   "key": "news:e7629e2a971e6f1c",
+   "league": "other",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Liverpool fail to hit target at Anfield, first since 2003",
+   "detail": "Opta says Liverpool had no shot on target in a 1-0 loss to Arsenal at Anfield, the first such blank there in Premier League records since 2003-04.",
+   "date": "2026-11-02T18:50:00+00:00",
+   "game_id": "",
+   "matchup": "",
+   "link": "https://www.theguardian.com/football/2026/nov/02/florian-wirtz-andoni-iraola-liverpool-tight-defences-arsenal-anfield",
+   "teams": [],
+   "team_logos": [],
+   "players": [],
+   "facts": [],
+   "blurb": "Opta says Liverpool had no shot on target in a 1-0 loss to Arsenal at Anfield, the first such blank there in Premier League records since 2003-04.",
+   "source": "news",
+   "source_name": "The Guardian",
+   "sport": "soccer",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-11-03T00:54:11+00:00"
+  },
   {
    "key": "news:517b963c148efe49",
    "league": "nfl",
