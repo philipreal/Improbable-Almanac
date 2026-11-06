@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-06T10:48:19+00:00",
+ "updated": "2026-11-06T19:18:01+00:00",
  "events": [
+  {
+   "key": "news:ed10bd7e1164df59",
+   "league": "other",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Forest fail to score in first four home games",
+   "detail": "Nottingham Forest are yet to score at home in their first four league matches, one of only five top-flight teams in history to do so.",
+   "date": "2026-11-06T10:49:59+00:00",
+   "game_id": "",
+   "matchup": "",
+   "link": "https://www.theguardian.com/football/2026/nov/06/nottingham-forest-no-goals-home-oliver-glasner",
+   "teams": [],
+   "team_logos": [],
+   "players": [],
+   "facts": [],
+   "blurb": "Nottingham Forest are yet to score at home in their first four league matches, one of only five top-flight teams in history to do so.",
+   "source": "news",
+   "source_name": "The Guardian",
+   "sport": "soccer",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-11-06T19:18:01+00:00"
+  },
   {
    "key": "news:240fdae4134099c7",
    "league": "other",
