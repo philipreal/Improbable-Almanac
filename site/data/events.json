@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T10:43:18+00:00",
+ "updated": "2026-11-06T10:48:19+00:00",
  "events": [
   {
    "key": "news:240fdae4134099c7",
@@ -23,6 +23,69 @@
    "live": false,
    "score": 3.0,
    "found": "2026-11-06T10:43:18+00:00"
+  },
+  {
+   "key": "cfb:401862817:scorigami",
+   "league": "cfb",
+   "category": "never-before",
+   "tier": "legendary",
+   "title": "Scorigami! 60–29 has never happened before",
+   "detail": "UTSA 29, FAU 60 is a final score that had never occurred in College Football history.",
+   "date": "2026-11-06T00:30Z",
+   "game_id": "401862817",
+   "matchup": "UTSA 29, FAU 60",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401862817",
+   "teams": [
+    "UTSA",
+    "FAU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2636.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2226.png"
+   ],
+   "players": [],
+   "facts": [
+    "No College Football game had ever ended 60–29 in 76,597 games since 1873.",
+    "This is the 2205th unique final score in College Football history."
+   ],
+   "blurb": "Scorigami alert! FAU's 60, UTSA's 29: a final that had never shown up in 76,597 games since 1873. It's now the 2205th unique score in College Football history, and the scoreboard just wrote a brand-new line in the book.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 5.0,
+   "found": "2026-11-06T10:48:13+00:00"
+  },
+  {
+   "key": "cfb:401862817:throw-and-catch-td:4914830",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Easton Messer threw a TD and caught one",
+   "detail": "Easton Messer (Florida Atlantic Owls) both threw and caught a touchdown pass.",
+   "date": "2026-11-06T00:30Z",
+   "game_id": "401862817",
+   "matchup": "UTSA 29, FAU 60",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401862817",
+   "teams": [
+    "FAU",
+    "UTSA"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2226.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2636.png"
+   ],
+   "players": [
+    "Easton Messer"
+   ],
+   "facts": [],
+   "blurb": "Easton Messer did it all for FAU, throwing a touchdown pass and catching one in the same game. Trick plays and receivers turned passers make this a rare double that stat-heads love to circle.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-11-06T10:48:13+00:00"
   },
   {
    "key": "news:114260ea702b7a20",
