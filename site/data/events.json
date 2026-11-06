@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-05T01:26:14+00:00",
+ "updated": "2026-11-06T01:29:53+00:00",
  "events": [
+  {
+   "key": "news:114260ea702b7a20",
+   "league": "other",
+   "category": "milestone",
+   "tier": "epic",
+   "title": "Valkyries win WNBA title in second season",
+   "detail": "The Golden State Valkyries clinched their first WNBA title in only their second season and celebrated with a parade.",
+   "date": "2026-11-05T19:36:57+00:00",
+   "game_id": "",
+   "matchup": "",
+   "link": "https://www.theguardian.com/sport/gallery/2026/nov/05/golden-state-valkyries-wnba-championship-parade-san-francisco-oakland-pictures",
+   "teams": [],
+   "team_logos": [],
+   "players": [],
+   "facts": [],
+   "blurb": "The Golden State Valkyries clinched their first WNBA title in only their second season and celebrated with a parade.",
+   "source": "news",
+   "source_name": "The Guardian",
+   "sport": "basketball",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-11-06T01:29:53+00:00"
+  },
   {
    "key": "news:08b401d0980b8611",
    "league": "other",
