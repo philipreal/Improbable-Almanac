@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-06T01:29:53+00:00",
+ "updated": "2026-11-06T10:43:18+00:00",
  "events": [
+  {
+   "key": "news:240fdae4134099c7",
+   "league": "other",
+   "category": "milestone",
+   "tier": "epic",
+   "title": "LSU routs Texas Southern by record 109 points",
+   "detail": "No 9 LSU beat Texas Southern 131-22, the largest winning margin ever between Division I teams and a school record. LSU scored 40 unanswered points in the second quarter.",
+   "date": "2026-11-06T03:58:40+00:00",
+   "game_id": "",
+   "matchup": "",
+   "link": "https://www.theguardian.com/sport/2026/nov/05/lsu-texas-southern-131-22-record-win-40-0-quarter",
+   "teams": [],
+   "team_logos": [],
+   "players": [],
+   "facts": [],
+   "blurb": "No 9 LSU beat Texas Southern 131-22, the largest winning margin ever between Division I teams and a school record. LSU scored 40 unanswered points in the second quarter.",
+   "source": "news",
+   "source_name": "The Guardian",
+   "sport": "women's college basketball",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-11-06T10:43:18+00:00"
+  },
   {
    "key": "news:114260ea702b7a20",
    "league": "other",
