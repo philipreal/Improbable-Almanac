@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T21:43:56+00:00",
+ "updated": "2026-11-07T23:00:12+00:00",
  "events": [
   {
    "key": "news:79704bf541ed98c2",
@@ -23,6 +23,68 @@
    "live": false,
    "score": 3.0,
    "found": "2026-11-07T21:43:56+00:00"
+  },
+  {
+   "key": "cfb:401869927:throw-and-catch-td:5092352",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Chris Lofton threw a TD and caught one",
+   "detail": "Chris Lofton (App State Mountaineers) both threw and caught a touchdown pass.",
+   "date": "2026-11-07T19:30Z",
+   "game_id": "401869927",
+   "matchup": "GAST 39, APP 23",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401869927",
+   "teams": [
+    "APP",
+    "GAST"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2026.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2247.png"
+   ],
+   "players": [
+    "Chris Lofton"
+   ],
+   "facts": [],
+   "blurb": "Chris Lofton of App State both threw a touchdown pass and caught one against Georgia Southern. Quarterback and receiver are usually separate jobs, so doing both in one game is a gloriously odd double life, even in a 39-23 loss.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-11-07T23:00:08+00:00"
+  },
+  {
+   "key": "cfb:401856854:td-triple-threat:5219834",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "legendary",
+   "title": "Drew Mestemaker threw, ran AND caught a touchdown",
+   "detail": "The touchdown triple crown: Drew Mestemaker (Oklahoma State Cowboys) scored every way an offense can.",
+   "date": "2026-11-07T18:00Z",
+   "game_id": "401856854",
+   "matchup": "OKST 66, KSU 28",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856854",
+   "teams": [
+    "OKST",
+    "KSU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png"
+   ],
+   "players": [
+    "Drew Mestemaker"
+   ],
+   "facts": [],
+   "blurb": "Drew Mestemaker of Oklahoma State threw a touchdown, ran for one and caught one in the 66-28 win over Kansas State. That's the full offensive menu, and he ordered every dish. Few players ever complete the touchdown triple crown.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 4.6,
+   "found": "2026-11-07T23:00:08+00:00"
   },
   {
    "key": "nba:401909294:heave:401909294400",
