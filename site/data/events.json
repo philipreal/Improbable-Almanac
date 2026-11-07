@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-06T19:18:01+00:00",
+ "updated": "2026-11-07T09:00:36+00:00",
  "events": [
+  {
+   "key": "nba:401909294:heave:401909294400",
+   "league": "nba",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "Luka Doncic: 62-foot buzzer-beater",
+   "detail": "Luka Doncic (Los Angeles Lakers) — Luka Doncic makes 62-foot jump bank shot (end of 2Q).",
+   "date": "2026-11-07T03:00Z",
+   "game_id": "401909294",
+   "matchup": "POR 118, LAL 124",
+   "link": "https://www.espn.com/nba/game/_/gameId/401909294",
+   "teams": [
+    "LAL",
+    "POR"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png"
+   ],
+   "players": [
+    "Luka Doncic"
+   ],
+   "facts": [],
+   "blurb": "Luka Doncic launched a 62-foot jump shot at the end of the second quarter, kissed it off the glass, and watched it drop. Heaves from that far usually die somewhere short of the rim, so banking one in is gloriously absurd.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-11-07T09:00:32+00:00"
+  },
   {
    "key": "news:ed10bd7e1164df59",
    "league": "other",
