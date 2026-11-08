@@ -1,6 +1,129 @@
 {
- "updated": "2026-11-08T02:15:07+00:00",
+ "updated": "2026-11-08T09:02:31+00:00",
  "events": [
+  {
+   "key": "cfb:401856856:scorigami-second",
+   "league": "cfb",
+   "category": "never-before",
+   "tier": "rare",
+   "title": "Only the second 53–48 final ever",
+   "detail": "WVU 48, TTU 53 matches a final score that had happened just once before.",
+   "date": "2026-11-08T02:30Z",
+   "game_id": "401856856",
+   "matchup": "WVU 48, TTU 53",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856856",
+   "teams": [
+    "WVU",
+    "TTU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png"
+   ],
+   "players": [],
+   "facts": [
+    "The only other 53–48 game in College Football history: MISS 48, LSU 53 on 2020-12-19."
+   ],
+   "blurb": "Texas Tech's 53-48 win over West Virginia is only the second time this final has shown up. The first was LSU 53, Ole Miss 48 on 2020-12-19. Lightning struck twice.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-11-08T09:02:26+00:00"
+  },
+  {
+   "key": "nba:401909941:lopsided-low",
+   "league": "nba",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Wizards held to 75",
+   "detail": "Only 75 points for Washington Wizards: WSH 75, OKC 114.",
+   "date": "2026-11-08T01:00Z",
+   "game_id": "401909941",
+   "matchup": "WSH 75, OKC 114",
+   "link": "https://www.espn.com/nba/game/_/gameId/401909941",
+   "teams": [
+    "WSH",
+    "OKC"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "Washington could only muster 75 points in a 114-75 loss to Oklahoma City. Scoring that little in the modern NBA means the offense spent the night stuck in mud.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-08T09:02:24+00:00"
+  },
+  {
+   "key": "cfb:401856852:throw-and-catch-td:5209295",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Jake Fette threw a TD and caught one",
+   "detail": "Jake Fette (Arizona State Sun Devils) both threw and caught a touchdown pass.",
+   "date": "2026-11-08T00:30Z",
+   "game_id": "401856852",
+   "matchup": "COLO 10, ASU 20",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856852",
+   "teams": [
+    "ASU",
+    "COLO"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png"
+   ],
+   "players": [
+    "Jake Fette"
+   ],
+   "facts": [],
+   "blurb": "Jake Fette did it all for Arizona State, throwing a touchdown pass and catching one in the 20-10 win over Colorado. That's a trick-play double that most players never get to dream up, let alone pull off.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-11-08T09:02:25+00:00"
+  },
+  {
+   "key": "cfb:401860911:scorigami",
+   "league": "cfb",
+   "category": "never-before",
+   "tier": "legendary",
+   "title": "Scorigami! 64–38 has never happened before",
+   "detail": "BOIS 64, CSU 38 is a final score that had never occurred in College Football history.",
+   "date": "2026-11-07T23:00Z",
+   "game_id": "401860911",
+   "matchup": "BOIS 64, CSU 38",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401860911",
+   "teams": [
+    "BOIS",
+    "CSU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/68.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png"
+   ],
+   "players": [],
+   "facts": [
+    "No College Football game had ever ended 64–38 in 76,638 games since 1873.",
+    "This is the 2206th unique final score in College Football history."
+   ],
+   "blurb": "Scorigami strikes! Boise State's 64-38 win over Colorado State is a final that had never happened in 76,638 games since 1873, and it becomes the 2206th unique score in college football history.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 5.0,
+   "found": "2026-11-08T09:02:25+00:00"
+  },
   {
    "key": "cfb:401869968:long-play:4018699683",
    "league": "cfb",
