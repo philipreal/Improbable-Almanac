@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-08T13:14:26+00:00",
+ "updated": "2026-11-08T19:33:18+00:00",
  "events": [
+  {
+   "key": "news:2def714001f96135",
+   "league": "other",
+   "category": "wild",
+   "tier": "epic",
+   "title": "Seventh-tier Wimborne stun League Two Crawley in FA Cup",
+   "detail": "Seventh-tier Wimborne Town beat League Two Crawley to reach round two for the first time in their history.",
+   "date": "2026-11-08T18:56:55+00:00",
+   "game_id": "",
+   "matchup": "",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo?at_medium=RSS&at_campaign=rss",
+   "teams": [],
+   "team_logos": [],
+   "players": [],
+   "facts": [],
+   "blurb": "Seventh-tier Wimborne Town beat League Two Crawley to reach round two for the first time in their history.",
+   "source": "news",
+   "source_name": "BBC Sport",
+   "sport": "Soccer",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-11-08T19:33:18+00:00"
+  },
   {
    "key": "news:9bf1509239341d63",
    "league": "mlb",
