@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-07T23:00:12+00:00",
+ "updated": "2026-11-08T02:15:07+00:00",
  "events": [
+  {
+   "key": "cfb:401869968:long-play:4018699683",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "100-yard kickoff return touchdown",
+   "detail": "JJ Garner went the distance: JJ Garner 100 Yd Kickoff Return (Tony Sterner Kick)",
+   "date": "2026-11-07T22:00Z",
+   "game_id": "401869968",
+   "matchup": "USA 26, UL 28",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401869968",
+   "teams": [
+    "UL",
+    "USA"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/309.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/6.png"
+   ],
+   "players": [
+    "JJ Garner"
+   ],
+   "facts": [],
+   "blurb": "JJ Garner took a kickoff and went all 100 yards for a touchdown, with Tony Sterner adding the kick. A kickoff return like that flips the mood of a stadium in about twelve seconds.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-11-08T02:15:02+00:00"
+  },
   {
    "key": "news:79704bf541ed98c2",
    "league": "other",
@@ -23,6 +54,35 @@
    "live": false,
    "score": 3.0,
    "found": "2026-11-07T21:43:56+00:00"
+  },
+  {
+   "key": "cfb:401858290:lopsided-margin",
+   "league": "cfb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "77-point rout",
+   "detail": "Wake Forest Demon Deacons won by 77: MRMK 0, WAKE 77.",
+   "date": "2026-11-07T20:30Z",
+   "game_id": "401858290",
+   "matchup": "MRMK 0, WAKE 77",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401858290",
+   "teams": [
+    "MRMK",
+    "WAKE"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2771.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "Wake Forest 77, Merrimack 0. That's a scoreboard that looks like a typo, a shutout paired with a margin so wide the Demon Deacons barely had time to catch their breath.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-08T02:15:00+00:00"
   },
   {
    "key": "cfb:401869927:throw-and-catch-td:5092352",
