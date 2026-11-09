@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-08T19:33:18+00:00",
+ "updated": "2026-11-09T11:20:59+00:00",
  "events": [
+  {
+   "key": "news:0a4a17103e903255",
+   "league": "other",
+   "category": "milestone",
+   "tier": "epic",
+   "title": "Teen Blades Brown wins PGA Tour event after comeback",
+   "detail": "19-year-old Blades Brown erased a seven-shot deficit with a closing 63 and beat Ben James in a two-hole playoff at the World Wide Technology Championship, becoming the youngest PGA Tour winner in nearly a century.",
+   "date": "2026-11-09T00:57:40+00:00",
+   "game_id": "",
+   "matchup": "",
+   "link": "https://www.cbssports.com/golf/news/blades-brown-fourth-youngest-pga-tour-winner/",
+   "teams": [],
+   "team_logos": [],
+   "players": [],
+   "facts": [],
+   "blurb": "19-year-old Blades Brown erased a seven-shot deficit with a closing 63 and beat Ben James in a two-hole playoff at the World Wide Technology Championship, becoming the youngest PGA Tour winner in nearly a century.",
+   "source": "news",
+   "source_name": "CBS Sports",
+   "sport": "golf",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-11-09T11:20:59+00:00"
+  },
   {
    "key": "news:2def714001f96135",
    "league": "other",
