@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T07:07:02+00:00",
+ "updated": "2026-11-10T11:48:20+00:00",
  "events": [
   {
    "key": "news:58b55d31f905ad79",
@@ -23,6 +23,35 @@
    "live": false,
    "score": 5.0,
    "found": "2026-11-10T07:07:02+00:00"
+  },
+  {
+   "key": "nba:401909959:lopsided-margin",
+   "league": "nba",
+   "category": "wild",
+   "tier": "rare",
+   "title": "51-point rout",
+   "detail": "Golden State Warriors won by 51: NO 87, GS 138.",
+   "date": "2026-11-10T03:00Z",
+   "game_id": "401909959",
+   "matchup": "NO 87, GS 138",
+   "link": "https://www.espn.com/nba/game/_/gameId/401909959",
+   "teams": [
+    "NO",
+    "GS"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "Golden State 138, New Orleans 87: a 51-point margin. Blowouts like this are strange because NBA teams usually trade runs, and a gap this size means one side controlled nearly every stretch while the other never found a counterpunch.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-10T11:48:15+00:00"
   },
   {
    "key": "news:4c82ee7a7a9a284e",
