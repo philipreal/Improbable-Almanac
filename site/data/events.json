@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T05:59:06+00:00",
+ "updated": "2026-11-11T06:08:59+00:00",
  "events": [
   {
    "key": "news:ba61d2c686579b49",
@@ -23,6 +23,37 @@
    "live": false,
    "score": 3.0,
    "found": "2026-11-11T05:59:06+00:00"
+  },
+  {
+   "key": "cfb:401866459:sacks:5093334",
+   "league": "cfb",
+   "category": "milestone",
+   "tier": "epic",
+   "title": "Myles Bradley: 5 sacks",
+   "detail": "Myles Bradley (Bowling Green Falcons) put up 5 sacks in KENT 28, BGSU 33.",
+   "date": "2026-11-11T00:00Z",
+   "game_id": "401866459",
+   "matchup": "KENT 28, BGSU 33",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401866459",
+   "teams": [
+    "BGSU",
+    "KENT"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/189.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2309.png"
+   ],
+   "players": [
+    "Myles Bradley"
+   ],
+   "facts": [],
+   "blurb": "Myles Bradley of Bowling Green sacked the quarterback five times in a 33-28 win over Kent. A sack is a drive-wrecker by itself, so stacking five in one game means he lived in the backfield all afternoon.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-11-11T06:08:55+00:00"
   },
   {
    "key": "news:b399cd29e808c639",
