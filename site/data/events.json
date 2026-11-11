@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-11T06:08:59+00:00",
+ "updated": "2026-11-11T14:04:53+00:00",
  "events": [
+  {
+   "key": "news:daa3daeba06744f3",
+   "league": "nba",
+   "category": "milestone",
+   "tier": "epic",
+   "title": "Knicks bounce back from historically bad start",
+   "detail": "After a 0-3 start, the reigning NBA champion Knicks reached 6-4 in their first 10 games. The text describes the worst start to a season for a reigning champion.",
+   "date": "2026-11-11T13:45:00+00:00",
+   "game_id": "",
+   "matchup": "",
+   "link": "https://sports.yahoo.com/articles/mike-brown-explains-enjoyed-york-134500794.html",
+   "teams": [],
+   "team_logos": [],
+   "players": [],
+   "facts": [],
+   "blurb": "After a 0-3 start, the reigning NBA champion Knicks reached 6-4 in their first 10 games. The text describes the worst start to a season for a reigning champion.",
+   "source": "news",
+   "source_name": "Yahoo Sports",
+   "sport": "Basketball",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-11-11T14:04:53+00:00"
+  },
   {
    "key": "news:ba61d2c686579b49",
    "league": "mlb",
