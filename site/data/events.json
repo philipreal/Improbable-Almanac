@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T22:16:49+00:00",
+ "updated": "2026-11-14T22:50:51+00:00",
  "events": [
   {
    "key": "news:08ac13124450576d",
@@ -23,6 +23,68 @@
    "live": false,
    "score": 3.0,
    "found": "2026-11-14T22:16:49+00:00"
+  },
+  {
+   "key": "cfb:401856859:throw-and-catch-td:4685345",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "JC French IV threw a TD and caught one",
+   "detail": "JC French IV (Cincinnati Bearcats) both threw and caught a touchdown pass.",
+   "date": "2026-11-14T17:00Z",
+   "game_id": "401856859",
+   "matchup": "CIN 13, ISU 41",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401856859",
+   "teams": [
+    "CIN",
+    "ISU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2132.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png"
+   ],
+   "players": [
+    "JC French IV"
+   ],
+   "facts": [],
+   "blurb": "JC French IV of Cincinnati did both jobs on the touchdown ledger, throwing one scoring pass and catching another. Quarterback and receiver in a single afternoon is the kind of trick-play double that makes stat-heads grin.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-11-14T22:50:45+00:00"
+  },
+  {
+   "key": "cfb:401861967:long-play:401861967152",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "100-yard kickoff return touchdown",
+   "detail": "Ky Wilson went the distance: Ky Wilson 100 Yd Kickoff Return (Jack O'Connor Kick)",
+   "date": "2026-11-14T17:00Z",
+   "game_id": "401861967",
+   "matchup": "JMU 22, CONN 46",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401861967",
+   "teams": [
+    "CONN",
+    "JMU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/256.png"
+   ],
+   "players": [
+    "Ky Wilson"
+   ],
+   "facts": [],
+   "blurb": "Ky Wilson took a kickoff 100 yards all the way to the end zone, with Jack O'Connor's kick adding the point. Everyone in the stadium knows where he's headed, and nobody can stop him.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-11-14T22:50:46+00:00"
   },
   {
    "key": "news:a499e2a4beae0607",
