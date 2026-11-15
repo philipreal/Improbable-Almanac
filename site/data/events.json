@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-15T02:19:53+00:00",
+ "updated": "2026-11-15T06:14:47+00:00",
  "events": [
+  {
+   "key": "news:80485ec54b889666",
+   "league": "cfb",
+   "category": "milestone",
+   "tier": "epic",
+   "title": "Texas ends 75-year losing streak at LSU",
+   "detail": "Texas beat LSU 22-21 in Baton Rouge with a second-half comeback, their first road win there since 1952.",
+   "date": "2026-11-15T06:06:25+00:00",
+   "game_id": "",
+   "matchup": "",
+   "link": "https://sports.yahoo.com/articles/lsu-fans-threw-drinks-arch-060625112.html",
+   "teams": [],
+   "team_logos": [],
+   "players": [],
+   "facts": [],
+   "blurb": "Texas beat LSU 22-21 in Baton Rouge with a second-half comeback, their first road win there since 1952.",
+   "source": "news",
+   "source_name": "Yahoo Sports",
+   "sport": "football",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-11-15T06:14:47+00:00"
+  },
   {
    "key": "cfb:401860916:long-play:40186091679",
    "league": "cfb",
