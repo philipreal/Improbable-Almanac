@@ -1,6 +1,68 @@
 {
- "updated": "2026-11-14T22:50:51+00:00",
+ "updated": "2026-11-15T02:19:53+00:00",
  "events": [
+  {
+   "key": "cfb:401860916:long-play:40186091679",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "100-yard kickoff return touchdown",
+   "detail": "Rayshon Luke went the distance: Rayshon Luke 100 Yd Kickoff Return (Manaki Watanabe Kick)",
+   "date": "2026-11-14T21:00Z",
+   "game_id": "401860916",
+   "matchup": "FRES 35, TXST 37",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401860916",
+   "teams": [
+    "FRES",
+    "TXST"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/326.png"
+   ],
+   "players": [
+    "Rayshon Luke"
+   ],
+   "facts": [],
+   "blurb": "Rayshon Luke fielded the kick and never stopped, 100 yards from one end zone to the other. A full-field kickoff return takes blockers, vision and a lot of daylight, which is why it makes a stat-head grin.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-11-15T02:19:47+00:00"
+  },
+  {
+   "key": "cfb:401858295:long-play:401858295303",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "100-yard interception return touchdown",
+   "detail": "Brandyn Hillman went the distance: Brandyn Hillman 100 Yd Interception Return (Will Bettridge Kick)",
+   "date": "2026-11-14T20:30Z",
+   "game_id": "401858295",
+   "matchup": "CAL 7, UVA 36",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401858295",
+   "teams": [
+    "UVA",
+    "CAL"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png"
+   ],
+   "players": [
+    "Brandyn Hillman"
+   ],
+   "facts": [],
+   "blurb": "Brandyn Hillman picked it off and then took the whole field home, 100 yards of pure pick-six. Stealing the ball is one thing, but outrunning an entire offense the length of the field is a rare double feature.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-11-15T02:19:47+00:00"
+  },
   {
    "key": "news:08ac13124450576d",
    "league": "other",
