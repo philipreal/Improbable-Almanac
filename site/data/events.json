@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T06:14:47+00:00",
+ "updated": "2026-11-15T09:42:41+00:00",
  "events": [
   {
    "key": "news:80485ec54b889666",
@@ -23,6 +23,66 @@
    "live": false,
    "score": 3.0,
    "found": "2026-11-15T06:14:47+00:00"
+  },
+  {
+   "key": "cfb:401860917:long-play:401860917138",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "epic",
+   "title": "98-yard touchdown run",
+   "detail": "Kirby Vorhees went the distance: Kirby Vorhees 98 Yd Run (Jack Stevens Kick)",
+   "date": "2026-11-15T03:45Z",
+   "game_id": "401860917",
+   "matchup": "CSU 7, WSU 73",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401860917",
+   "teams": [
+    "WSU",
+    "CSU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/265.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png"
+   ],
+   "players": [
+    "Kirby Vorhees"
+   ],
+   "facts": [],
+   "blurb": "Kirby Vorhees took off for a 98-yard touchdown run, nearly the entire length of the field in one burst. A run that long means every defender on the field got beaten or left chasing his shadow.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.6,
+   "found": "2026-11-15T09:42:37+00:00"
+  },
+  {
+   "key": "nba:401909984:upset",
+   "league": "nba",
+   "category": "wild",
+   "tier": "epic",
+   "title": "16.5-point underdog Bulls win outright",
+   "detail": "Chicago Bulls were 16.5-point underdogs and won CHI 117, MIN 106.",
+   "date": "2026-11-15T01:00Z",
+   "game_id": "401909984",
+   "matchup": "CHI 117, MIN 106",
+   "link": "https://www.espn.com/nba/game/_/gameId/401909984",
+   "teams": [
+    "CHI",
+    "MIN"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "Chicago was handed a 16.5-point deficit by the oddsmakers and laughed it off, beating Minnesota 117-106. Spreads that big usually signal a mismatch, which makes an outright win a delightful bit of chaos.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-11-15T09:42:35+00:00"
   },
   {
    "key": "cfb:401860916:long-play:40186091679",
