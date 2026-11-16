@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-15T22:44:41+00:00",
+ "updated": "2026-11-16T01:15:07+00:00",
  "events": [
+  {
+   "key": "nfl:401873063:scorigami",
+   "league": "nfl",
+   "category": "never-before",
+   "tier": "legendary",
+   "title": "Scorigami! 46–40 has never happened before",
+   "detail": "SF 46, DAL 40 is a final score that had never occurred in NFL history.",
+   "date": "2026-11-15T21:25Z",
+   "game_id": "401873063",
+   "matchup": "SF 46, DAL 40",
+   "link": "https://www.espn.com/nfl/game/_/gameId/401873063",
+   "teams": [
+    "SF",
+    "DAL"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png",
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png"
+   ],
+   "players": [],
+   "facts": [
+    "No NFL game had ever ended 46–40 in 18,381 games since 1920.",
+    "This is the 1099th unique final score in NFL history."
+   ],
+   "blurb": "Scorigami! San Francisco 46, Dallas 40 had never been the final in any of the 18,381 NFL games since 1920. It becomes the 1099th unique final score in league history, and what a shootout to earn it.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 5.0,
+   "found": "2026-11-16T01:15:02+00:00"
+  },
   {
    "key": "news:e0d20b5af266d9f6",
    "league": "other",
