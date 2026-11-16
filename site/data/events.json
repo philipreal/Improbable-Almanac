@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T06:13:22+00:00",
+ "updated": "2026-11-16T08:01:45+00:00",
  "events": [
   {
    "key": "news:142b470f036c3b66",
@@ -46,6 +46,69 @@
    "live": false,
    "score": 4.0,
    "found": "2026-11-16T06:13:22+00:00"
+  },
+  {
+   "key": "nfl:401873064:scorigami",
+   "league": "nfl",
+   "category": "never-before",
+   "tier": "legendary",
+   "title": "Scorigami! 38–18 has never happened before",
+   "detail": "PIT 18, CIN 38 is a final score that had never occurred in NFL history.",
+   "date": "2026-11-16T01:20Z",
+   "game_id": "401873064",
+   "matchup": "PIT 18, CIN 38",
+   "link": "https://www.espn.com/nfl/game/_/gameId/401873064",
+   "teams": [
+    "PIT",
+    "CIN"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png"
+   ],
+   "players": [],
+   "facts": [
+    "No NFL game had ever ended 38–18 in 18,382 games since 1920.",
+    "This is the 1100th unique final score in NFL history."
+   ],
+   "blurb": "Scorigami! In 18,382 games since 1920, no NFL game had ever ended 38–18 until Cincinnati's win over Pittsburgh. It's the 1100th unique final score in league history, a brand-new entry in the scoreboard catalog.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 5.0,
+   "found": "2026-11-16T08:01:38+00:00"
+  },
+  {
+   "key": "nfl:401873064:rec_yds:4362628",
+   "league": "nfl",
+   "category": "milestone",
+   "tier": "rare",
+   "title": "Ja'Marr Chase: 231 receiving yards",
+   "detail": "Ja'Marr Chase (Cincinnati Bengals) put up 231 receiving yards in PIT 18, CIN 38.",
+   "date": "2026-11-16T01:20Z",
+   "game_id": "401873064",
+   "matchup": "PIT 18, CIN 38",
+   "link": "https://www.espn.com/nfl/game/_/gameId/401873064",
+   "teams": [
+    "CIN",
+    "PIT"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png",
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png"
+   ],
+   "players": [
+    "Ja'Marr Chase"
+   ],
+   "facts": [],
+   "blurb": "Ja'Marr Chase racked up 231 receiving yards as Cincinnati beat Pittsburgh 38–18. Topping 200 yards through the air is a rare feat for any receiver, and this one practically broke the defense's spirit.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-16T08:01:38+00:00"
   },
   {
    "key": "nfl:401873063:scorigami",
