@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-18T11:30:16+00:00",
+ "updated": "2026-11-19T07:43:58+00:00",
  "events": [
+  {
+   "key": "cfb:401866467:long-play:401866467390",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "100-yard kickoff return touchdown",
+   "detail": "Brandon Hills went the distance: Brandon Hills 100 Yd Kickoff Return (Aidan Stire Kick)",
+   "date": "2026-11-19T00:00Z",
+   "game_id": "401866467",
+   "matchup": "AKR 34, MASS 33",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401866467",
+   "teams": [
+    "AKR",
+    "MASS"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/113.png"
+   ],
+   "players": [
+    "Brandon Hills"
+   ],
+   "facts": [],
+   "blurb": "Brandon Hills fielded the kick and never stopped running, taking it a full 100 yards to the house, with Aidan Stire adding the extra point. A kickoff return touchdown is a rare thrill: everyone knows the play is coming, and still nobody catches him.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-11-19T07:43:54+00:00"
+  },
   {
    "key": "news:c3bae72da710c095",
    "league": "other",
