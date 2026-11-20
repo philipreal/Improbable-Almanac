@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-19T07:43:58+00:00",
+ "updated": "2026-11-20T11:24:21+00:00",
  "events": [
+  {
+   "key": "news:9373f03bf4a29599",
+   "league": "mlb",
+   "category": "milestone",
+   "tier": "epic",
+   "title": "Brewers fans set MLB World Series merchandise record",
+   "detail": "Brewers fans set a new MLB record for in-venue World Series merchandise sales, beating the 2022 Houston Astros by 9%, according to MLB.",
+   "date": "2026-11-20T11:04:38+00:00",
+   "game_id": "",
+   "matchup": "",
+   "link": "https://sports.yahoo.com/articles/brewers-fans-smash-mlb-merchandise-110438699.html",
+   "teams": [],
+   "team_logos": [],
+   "players": [],
+   "facts": [],
+   "blurb": "Brewers fans set a new MLB record for in-venue World Series merchandise sales, beating the 2022 Houston Astros by 9%, according to MLB.",
+   "source": "news",
+   "source_name": "Yahoo Sports",
+   "sport": "baseball",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-11-20T11:24:21+00:00"
+  },
   {
    "key": "cfb:401866467:long-play:401866467390",
    "league": "cfb",
