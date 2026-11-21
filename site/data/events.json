@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-21T02:07:47+00:00",
+ "updated": "2026-11-21T09:02:39+00:00",
  "events": [
+  {
+   "key": "nba:401909312:heave:401909312685",
+   "league": "nba",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Fred VanVleet: 51-foot buzzer-beater",
+   "detail": "Fred VanVleet (Houston Rockets) — Fred VanVleet makes 51-foot three pointer (Jabari Smith Jr. assists) (end of 4Q).",
+   "date": "2026-11-21T03:00Z",
+   "game_id": "401909312",
+   "matchup": "HOU 124, DEN 133",
+   "link": "https://www.espn.com/nba/game/_/gameId/401909312",
+   "teams": [
+    "HOU",
+    "DEN"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png"
+   ],
+   "players": [
+    "Fred VanVleet"
+   ],
+   "facts": [],
+   "blurb": "Fred VanVleet launched a 51-foot three at the end of the fourth quarter, and it dropped, with Jabari Smith Jr. setting it up. Shots from that far are mostly a prayer, which makes a clean swish a delight for any stat-head.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-11-21T09:02:34+00:00"
+  },
   {
    "key": "news:afa7bd340d62c0a3",
    "league": "other",
