@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-21T19:06:18+00:00",
+ "updated": "2026-11-21T21:58:50+00:00",
  "events": [
+  {
+   "key": "cfb:401858310:scorigami-second",
+   "league": "cfb",
+   "category": "never-before",
+   "tier": "rare",
+   "title": "Only the second 50–29 final ever",
+   "detail": "WAKE 50, GT 29 matches a final score that had happened just once before.",
+   "date": "2026-11-21T17:00Z",
+   "game_id": "401858310",
+   "matchup": "WAKE 50, GT 29",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401858310",
+   "teams": [
+    "WAKE",
+    "GT"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png"
+   ],
+   "players": [],
+   "facts": [
+    "The only other 50–29 game in College Football history: ECU 50, NCSU 29 on 1996-11-30."
+   ],
+   "blurb": "Wake Forest 50, Georgia Tech 29 is a scoreline that almost never shows up. Its only previous appearance was ECU 50, NC State 29 on 1996-11-30, so this one just became the second ever to land on that number.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-11-21T21:58:44+00:00"
+  },
   {
    "key": "news:c2ed6bfcff5b5604",
    "league": "other",
