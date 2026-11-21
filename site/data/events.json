@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-21T09:02:39+00:00",
+ "updated": "2026-11-21T10:53:26+00:00",
  "events": [
+  {
+   "key": "news:0bd83de3336d4a42",
+   "league": "nba",
+   "category": "milestone",
+   "tier": "epic",
+   "title": "Harden breaks Kobe Bryant's 50-point games record",
+   "detail": "James Harden made NBA history during Cleveland's 128-119 win over Indiana by breaking Kobe Bryant's record for 50-point games.",
+   "date": "2026-11-21T10:08:07+00:00",
+   "game_id": "",
+   "matchup": "",
+   "link": "https://sports.yahoo.com/articles/james-harden-immediate-reaction-breaking-100807120.html",
+   "teams": [],
+   "team_logos": [],
+   "players": [],
+   "facts": [],
+   "blurb": "James Harden made NBA history during Cleveland's 128-119 win over Indiana by breaking Kobe Bryant's record for 50-point games.",
+   "source": "news",
+   "source_name": "Yahoo Sports",
+   "sport": "basketball",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-11-21T10:53:26+00:00"
+  },
   {
    "key": "nba:401909312:heave:401909312685",
    "league": "nba",
