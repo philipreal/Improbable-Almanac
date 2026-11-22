@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:10:12+00:00",
+ "updated": "2026-11-22T01:57:27+00:00",
  "events": [
   {
    "key": "news:a5140ee28fec21c1",
@@ -46,6 +46,64 @@
    "live": false,
    "score": 3.0,
    "found": "2026-11-22T01:10:12+00:00"
+  },
+  {
+   "key": "cfb:401858528:unranked-over-top5",
+   "league": "cfb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "Unranked Michigan stun No. 4 UCLA",
+   "detail": "Michigan Wolverines were unranked and beat No. 4 UCLA Bruins: UCLA 16, MICH 18.",
+   "date": "2026-11-21T20:30Z",
+   "game_id": "401858528",
+   "matchup": "UCLA 16, MICH 18",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401858528",
+   "teams": [
+    "MICH",
+    "UCLA"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "Unranked Michigan walked into the building and sent No. 4 UCLA home on the wrong end of an 18-16 final. When a team outside the rankings knocks off a top-five foe, the poll voters have some explaining to do.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-22T01:57:21+00:00"
+  },
+  {
+   "key": "cfb:401858532:upset",
+   "league": "cfb",
+   "category": "wild",
+   "tier": "rare",
+   "title": "24.5-point underdog Rutgers win outright",
+   "detail": "Rutgers Scarlet Knights were 24.5-point underdogs and won RUTG 25, PSU 24.",
+   "date": "2026-11-21T20:30Z",
+   "game_id": "401858532",
+   "matchup": "RUTG 25, PSU 24",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401858532",
+   "teams": [
+    "RUTG",
+    "PSU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "Rutgers entered as a 24.5-point underdog and left with a 25-24 win over Penn State. Beating a spread that wide outright is the kind of one-point miracle that makes oddsmakers stare at their spreadsheets.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-22T01:57:22+00:00"
   },
   {
    "key": "cfb:401858310:scorigami-second",
