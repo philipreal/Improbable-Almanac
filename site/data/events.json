@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-22T01:57:27+00:00",
+ "updated": "2026-11-22T09:24:09+00:00",
  "events": [
+  {
+   "key": "cfb:401860919:throw-and-catch-td:5151339",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "Anthony Garcia threw a TD and caught one",
+   "detail": "Anthony Garcia (Utah State Aggies) both threw and caught a touchdown pass.",
+   "date": "2026-11-22T03:30Z",
+   "game_id": "401860919",
+   "matchup": "USU 24, ORST 31",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401860919",
+   "teams": [
+    "USU",
+    "ORST"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png"
+   ],
+   "players": [
+    "Anthony Garcia"
+   ],
+   "facts": [],
+   "blurb": "Anthony Garcia of Utah State threw a touchdown pass and caught one in the same game. Few players ever get to play both quarterback and receiver in the end zone, which makes this a delightful trick-play double.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-11-22T09:24:04+00:00"
+  },
+  {
+   "key": "nba:401910028:upset",
+   "league": "nba",
+   "category": "wild",
+   "tier": "rare",
+   "title": "12.5-point underdog Kings win outright",
+   "detail": "Sacramento Kings were 12.5-point underdogs and won BOS 96, SAC 97.",
+   "date": "2026-11-22T03:00Z",
+   "game_id": "401910028",
+   "matchup": "BOS 96, SAC 97",
+   "link": "https://www.espn.com/nba/game/_/gameId/401910028",
+   "teams": [
+    "SAC",
+    "BOS"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "Sacramento was a 12.5-point underdog and still slipped past Boston, 97-96. Winning by a single point after being given such a huge cushion against them is the kind of razor-thin heist that makes oddsmakers wince.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-22T09:24:03+00:00"
+  },
   {
    "key": "news:a5140ee28fec21c1",
    "league": "cfb",
@@ -23,6 +83,37 @@
    "live": false,
    "score": 3.6,
    "found": "2026-11-22T01:10:12+00:00"
+  },
+  {
+   "key": "cfb:401858302:long-fg:401858302377",
+   "league": "cfb",
+   "category": "milestone",
+   "tier": "rare",
+   "title": "59-yard field goal",
+   "detail": "Jake Weinberg drilled a 59-yarder for Miami Hurricanes.",
+   "date": "2026-11-22T00:00Z",
+   "game_id": "401858302",
+   "matchup": "VT 20, MIA 28",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401858302",
+   "teams": [
+    "MIA",
+    "VT"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/259.png"
+   ],
+   "players": [
+    "Jake Weinberg"
+   ],
+   "facts": [],
+   "blurb": "Jake Weinberg sent a 59-yard field goal through the uprights for Miami. That's nearly two-thirds of a football field of distance, a kick where leg strength, snap, and nerve all have to line up perfectly.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-22T09:24:03+00:00"
   },
   {
    "key": "news:faab0ab06c96aaf6",
