@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-22T19:28:59+00:00",
+ "updated": "2026-11-22T22:39:22+00:00",
  "events": [
+  {
+   "key": "nfl:401873073:scorigami",
+   "league": "nfl",
+   "category": "never-before",
+   "tier": "legendary",
+   "title": "Scorigami! 51–30 has never happened before",
+   "detail": "TEN 30, DAL 51 is a final score that had never occurred in NFL history.",
+   "date": "2026-11-22T18:00Z",
+   "game_id": "401873073",
+   "matchup": "TEN 30, DAL 51",
+   "link": "https://www.espn.com/nfl/game/_/gameId/401873073",
+   "teams": [
+    "TEN",
+    "DAL"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png",
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png"
+   ],
+   "players": [],
+   "facts": [
+    "No NFL game had ever ended 51–30 in 18,387 games since 1920.",
+    "This is the 1101st unique final score in NFL history."
+   ],
+   "blurb": "Scorigami! Dallas 51, Tennessee 30 is a final the NFL had never produced in 18,387 games since 1920. It becomes the 1101st unique score in league history, a brand-new entry in the scoreboard record books.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 5.0,
+   "found": "2026-11-22T22:39:17+00:00"
+  },
   {
    "key": "news:6f1abe3984eb566c",
    "league": "other",
