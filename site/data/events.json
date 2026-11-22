@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-22T11:07:46+00:00",
+ "updated": "2026-11-22T19:28:59+00:00",
  "events": [
+  {
+   "key": "news:6f1abe3984eb566c",
+   "league": "other",
+   "category": "milestone",
+   "tier": "epic",
+   "title": "Marquez wins record-equalling eighth MotoGP championship",
+   "detail": "Marc Marquez secured his eighth MotoGP championship, equalling the record and moving level with Giacomo Agostini.",
+   "date": "2026-11-22T14:58:23+00:00",
+   "game_id": "",
+   "matchup": "",
+   "link": "https://www.bbc.co.uk/sport/motorsport/articles/c64gnrdzq8zzo?at_medium=RSS&at_campaign=rss",
+   "teams": [],
+   "team_logos": [],
+   "players": [],
+   "facts": [],
+   "blurb": "Marc Marquez secured his eighth MotoGP championship, equalling the record and moving level with Giacomo Agostini.",
+   "source": "news",
+   "source_name": "BBC Sport",
+   "sport": "motorsport",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-11-22T19:28:59+00:00"
+  },
   {
    "key": "news:f78fbcd305521e26",
    "league": "cfb",
