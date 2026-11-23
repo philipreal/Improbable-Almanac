@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-22T22:39:22+00:00",
+ "updated": "2026-11-23T03:07:45+00:00",
  "events": [
+  {
+   "key": "nba:401910032:lopsided-combined",
+   "league": "nba",
+   "category": "wild",
+   "tier": "rare",
+   "title": "296 combined points",
+   "detail": "DEN 151, CHI 145: a 296-point shootout.",
+   "date": "2026-11-23T00:00Z",
+   "game_id": "401910032",
+   "matchup": "DEN 151, CHI 145",
+   "link": "https://www.espn.com/nba/game/_/gameId/401910032",
+   "teams": [
+    "DEN",
+    "CHI"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png"
+   ],
+   "players": [],
+   "facts": [],
+   "blurb": "Denver 151, Chicago 145: 296 combined points, and barely a defensive stop in sight. When both teams treat the rim like an open door, the scoreboard just keeps spinning.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-23T03:07:41+00:00"
+  },
+  {
+   "key": "nba:401910032:big-ast:4871145",
+   "league": "nba",
+   "category": "milestone",
+   "tier": "rare",
+   "title": "Josh Giddey: 22 assists",
+   "detail": "Josh Giddey (Chicago Bulls) had 22 assists in DEN 151, CHI 145.",
+   "date": "2026-11-23T00:00Z",
+   "game_id": "401910032",
+   "matchup": "DEN 151, CHI 145",
+   "link": "https://www.espn.com/nba/game/_/gameId/401910032",
+   "teams": [
+    "CHI",
+    "DEN"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
+    "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png"
+   ],
+   "players": [
+    "Josh Giddey"
+   ],
+   "facts": [],
+   "blurb": "Josh Giddey dished out 22 assists for Chicago in a 151-145 loss to Denver. Handing out that many buckets in a single night means he was the one steering nearly every possession.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.0,
+   "found": "2026-11-23T03:07:41+00:00"
+  },
   {
    "key": "nfl:401873073:scorigami",
    "league": "nfl",
