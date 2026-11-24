@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-23T12:16:54+00:00",
+ "updated": "2026-11-24T13:32:28+00:00",
  "events": [
+  {
+   "key": "news:f46cb4caf11d1c7b",
+   "league": "other",
+   "category": "milestone",
+   "tier": "epic",
+   "title": "Sooryavanshi sets fastest List A century and double century",
+   "detail": "The 15-year-old Sooryavanshi reached a century in 28 balls and crossed 200 in 52 balls for India A against the UAE, setting men's List A records for fastest century and double century.",
+   "date": "2026-11-24T13:16:50+00:00",
+   "game_id": "",
+   "matchup": "",
+   "link": "https://sports.yahoo.com/articles/india-teen-sensation-sooryavanshi-smashes-131650340.html",
+   "teams": [],
+   "team_logos": [],
+   "players": [],
+   "facts": [],
+   "blurb": "The 15-year-old Sooryavanshi reached a century in 28 balls and crossed 200 in 52 balls for India A against the UAE, setting men's List A records for fastest century and double century.",
+   "source": "news",
+   "source_name": "Yahoo Sports",
+   "sport": "cricket",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-11-24T13:32:28+00:00"
+  },
   {
    "key": "news:c567e9874af31a2e",
    "league": "other",
