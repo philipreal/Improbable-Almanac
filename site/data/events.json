@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-24T23:51:17+00:00",
+ "updated": "2026-11-25T03:39:57+00:00",
  "events": [
+  {
+   "key": "cfb:401866470:long-play:401866470301",
+   "league": "cfb",
+   "category": "oddity",
+   "tier": "rare",
+   "title": "100-yard kickoff return touchdown",
+   "detail": "Brendyn Smith went the distance: Brendyn Smith 100 Yd Kickoff Return (Two-Point Pass Conversion Failed)",
+   "date": "2026-11-25T00:00Z",
+   "game_id": "401866470",
+   "matchup": "KENT 12, EMU 17",
+   "link": "https://www.espn.com/college-football/game/_/gameId/401866470",
+   "teams": [
+    "KENT",
+    "EMU"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2309.png",
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png"
+   ],
+   "players": [
+    "Brendyn Smith"
+   ],
+   "facts": [],
+   "blurb": "Brendyn Smith took a kickoff and simply refused to be tackled for all 100 yards, a full-field sprint that's one of football's purest highlight plays. The two-point try failed, but the return still gave the game a jolt.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 2.6,
+   "found": "2026-11-25T03:39:53+00:00"
+  },
   {
    "key": "news:ed01d6660b58d5e4",
    "league": "cfb",
