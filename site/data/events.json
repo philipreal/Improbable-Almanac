@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-25T19:09:15+00:00",
+ "updated": "2026-11-26T16:46:41+00:00",
  "events": [
+  {
+   "key": "news:00eac1d8f5ef3224",
+   "league": "other",
+   "category": "never-before",
+   "tier": "epic",
+   "title": "Matarazzo becomes first American La Liga manager",
+   "detail": "Real Sociedad boss Pellegrino Matarazzo became the first American manager in La Liga history.",
+   "date": "2026-11-26T13:49:20+00:00",
+   "game_id": "",
+   "matchup": "",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6r7g4v8vee5o?at_medium=RSS&at_campaign=rss",
+   "teams": [],
+   "team_logos": [],
+   "players": [],
+   "facts": [],
+   "blurb": "Real Sociedad boss Pellegrino Matarazzo became the first American manager in La Liga history.",
+   "source": "news",
+   "source_name": "BBC Sport",
+   "sport": "soccer",
+   "live": false,
+   "score": 4.0,
+   "found": "2026-11-26T16:46:41+00:00"
+  },
   {
    "key": "news:8fc72a01a3c0e1db",
    "league": "other",
