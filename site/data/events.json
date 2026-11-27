@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-27T01:40:34+00:00",
+ "updated": "2026-11-27T04:50:14+00:00",
  "events": [
+  {
+   "key": "nfl:401873080:comeback",
+   "league": "nfl",
+   "category": "wild",
+   "tier": "epic",
+   "title": "Eagles storm back from 21 points down",
+   "detail": "Philadelphia Eagles trailed by 21 and won PHI 39, DAL 38.",
+   "date": "2026-11-26T21:30Z",
+   "game_id": "401873080",
+   "matchup": "PHI 39, DAL 38",
+   "link": "https://www.espn.com/nfl/game/_/gameId/401873080",
+   "teams": [
+    "PHI",
+    "DAL"
+   ],
+   "team_logos": [
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
+    "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png"
+   ],
+   "players": [],
+   "facts": [
+    "The biggest comeback in NFL history is 33 points (Vikings over the Colts, December 2022)."
+   ],
+   "blurb": "Down 21 points, the Eagles refused to fold and escaped Dallas 39-38 by a single point. It's not the biggest comeback ever, since that mark is 33 points, set by the Vikings over the Colts in December 2022, but a one-point finish makes this one thrilling.",
+   "source": "detector",
+   "source_name": "",
+   "sport": "",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-11-27T04:50:10+00:00"
+  },
   {
    "key": "news:5ecb758b8f4cc5c7",
    "league": "other",
