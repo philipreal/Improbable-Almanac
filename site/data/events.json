@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-27T04:50:14+00:00",
+ "updated": "2026-11-27T12:02:06+00:00",
  "events": [
+  {
+   "key": "news:cb47efd5637ba00a",
+   "league": "other",
+   "category": "milestone",
+   "tier": "epic",
+   "title": "Marquez announces MotoGP retirement after eighth title",
+   "detail": "Marc Marquez says he will retire days after clinching a record-equalling eighth MotoGP title.",
+   "date": "2026-11-27T11:14:16+00:00",
+   "game_id": "",
+   "matchup": "",
+   "link": "https://www.bbc.co.uk/sport/motorsport/articles/c539gd3r3mk2o?at_medium=RSS&at_campaign=rss",
+   "teams": [],
+   "team_logos": [],
+   "players": [],
+   "facts": [],
+   "blurb": "Marc Marquez says he will retire days after clinching a record-equalling eighth MotoGP title.",
+   "source": "news",
+   "source_name": "BBC Sport",
+   "sport": "motorsport",
+   "live": false,
+   "score": 3.0,
+   "found": "2026-11-27T12:02:06+00:00"
+  },
   {
    "key": "nfl:401873080:comeback",
    "league": "nfl",
