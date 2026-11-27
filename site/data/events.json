@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-26T16:46:41+00:00",
+ "updated": "2026-11-27T01:40:34+00:00",
  "events": [
+  {
+   "key": "news:5ecb758b8f4cc5c7",
+   "league": "other",
+   "category": "never-before",
+   "tier": "epic",
+   "title": "Campbell Wright becomes first American World Cup biathlon winner",
+   "detail": "Campbell Wright won the 20km individual race at the World Cup opener in Kontiolahti, Finland, becoming the first American to win a World Cup biathlon event. He finished in 24:29.8.",
+   "date": "2026-11-26T20:08:36+00:00",
+   "game_id": "",
+   "matchup": "",
+   "link": "https://www.theguardian.com/sport/2026/nov/26/campbell-wright-becomes-first-american-to-win-world-cup-biathlon-event",
+   "teams": [],
+   "team_logos": [],
+   "players": [],
+   "facts": [],
+   "blurb": "Campbell Wright won the 20km individual race at the World Cup opener in Kontiolahti, Finland, becoming the first American to win a World Cup biathlon event. He finished in 24:29.8.",
+   "source": "news",
+   "source_name": "The Guardian",
+   "sport": "biathlon",
+   "live": false,
+   "score": 4.0,
+   "found": "2026-11-27T01:40:34+00:00"
+  },
   {
    "key": "news:00eac1d8f5ef3224",
    "league": "other",
