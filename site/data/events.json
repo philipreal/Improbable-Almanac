@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-27T22:56:38+00:00",
+ "updated": "2026-11-28T03:15:53+00:00",
  "events": [
+  {
+   "key": "news:261a9ba03eb9092a",
+   "league": "nfl",
+   "category": "never-before",
+   "tier": "legendary",
+   "title": "Steelers-Broncos Black Friday final score never seen before",
+   "detail": "The Broncos and Steelers combined on Black Friday to produce a final score that has never happened before in NFL history.",
+   "date": "2026-11-27T23:27:44+00:00",
+   "game_id": "",
+   "matchup": "",
+   "link": "https://www.cbssports.com/nfl/news/black-friday-scorigami-steelers-broncos-final-score-nfl-history/",
+   "teams": [],
+   "team_logos": [],
+   "players": [],
+   "facts": [],
+   "blurb": "The Broncos and Steelers combined on Black Friday to produce a final score that has never happened before in NFL history.",
+   "source": "news",
+   "source_name": "CBS Sports",
+   "sport": "football",
+   "live": false,
+   "score": 5.0,
+   "found": "2026-11-28T03:15:53+00:00"
+  },
   {
    "key": "nfl:401873083:scorigami",
    "league": "nfl",
